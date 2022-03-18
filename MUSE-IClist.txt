@@ -1,0 +1,194 @@
+MUSE decoding related IC list
+---------------------------------------------------
+Compiled by David Vincze (kamm at laserdisc dot hu)
+https://github.com/szaguldo-kamaz/laserdisc-iclist/
+---------------------------------------------------
+
+AKM
+ AK41311VM - ?? (Pioneer PDP-502R 2x)
+
+CSI
+ CAT514221A-3 - ?mem? (Victor HD-MD2 4x vagy 6x?)
+
+Fujitsu
+ MB81C79A - 72Kbit SRAM (Sony SAU-500MN)
+ MB86115 - ?? (Hitachi HD-M20)
+ MB86115A - ?? (Sony SAU-500MN)
+ MB86116 - ?? (Hitachi HD-M20)
+ MB40978P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HD-MD2)
+ MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HD-MD2)
+ MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
+
+Hitachi
+ HD49407 - Waveform equalization TRF
+ HD74AC244P - Octal buffer and line driver for mem address (Victor HD-MD2)
+ HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HD-MD2) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
+ HA19214NT - A/D Converter
+ H8/532 - HD6475328F10 - MCU (Panasonic TU-AHD100/N - TVRAJ039A label)
+
+JVC (Nihon Victor - 日本ビクター)
+ LH50530 - MUSE-NTSC Conversion unit (128 QFP) (Panasonic TU-AHD100/N)
+ JCC5003 - ?? (Victor HD-MD2 2x)
+ JCC5004 - ?? (Victor HD-MD2)
+ JCC5032-A - ?? (Mitsubishi MD-CZ11)
+
+JVC/OKI
+ M91U055 - ?? (Victor HD-MD2)
+
+Macronix (MX)
+ N3P1003QF - ?? (Panasonic TU-AHD100/N)
+
+Mitsubishi
+ M50253P - 12 BIT / 16 BIT SERIAL PARALLEL CONVERTER (Victor HD-MD2) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
+ M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HD-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M52347FP - Sync. signal processor (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
+ M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11)
+ M52650FP - Analog input processor (Panasonic TU-AHD100/N)
+ M52651SP - Analog output processor (Panasonic TU-AHD100/N)
+ M52652SP - Clock generator
+ M52654FP - ?? (Pioneer PDP-502R)
+ M52655FP - ?? (Pioneer PDP-502R)
+ M52657FP - ?? (Pioneer PDP-502R)
+ M65530FP - ?? (Pioneer PDP-502R)
+ ?M65601FP? - ?? (Victor HD-MD2)
+ M65620FP - Output processor (Panasonic TU-AHD100/N)
+ M65621FP - Motion detector
+ M65642FP - ?? (Pioneer PDP-502R)
+ M65648FP - ?? (Pioneer PDP-502R)
+ M65649FP - ?? (Pioneer PDP-502R)
+ M66006 - 12-BIT I/O EXPANDER - parellel<>serial (Panasonic TU-AHD100/N)
+
+NEC (Nihon Denki - 日本電気)
+ D42102C-3 - ?? (Victor HD-MD2)
+ D42102G-3 - ?? (Mitsubishi MD-CZ11)
+ D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R)
+ D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11)
+ D42102G-X - 1H delay line
+ D42291R - Image memory
+ D42291GJ - 2M Field memory (Panasonic TU-AHD100/N)
+ D60310GF - MUSE input processor (Panasonic TU-AHD100/N)
+ D6470DU - Asymmetric filter
+ D6471DU - Color Processor 1
+ D6472DU - Color Processor 2
+ D6475GD - MUSE signal processor (Panasonic TU-AHD100/N)
+ D6476GD - Luminance signal processor (Panasonic TU-AHD100/N)
+ D6477GD - Luminance output processor (Panasonic TU-AHD100/N)
+ D9375CW - Video Processing Unit 1
+ D9376CW - Video Processing Unit 2
+ D9377C - Video Processing Unit 3
+ D9378GB - Small capacity FIFO
+
+NEC/VLSI Technology
+ VY06434 - Color processor (Panasonic TU-AHD100/N)
+
+NPC
+ SM5840CP - Digital Oversampling Filter (Audio) (Victor HD-MD2 2x)
+
+OKI
+ M72H045 - ?? (Victor HD-MD2)
+
+Panasonic (Matsushita - 松下)
+ AN3917S - ?16-pin clock gen? (Pioneer PDP-502R)
+ AN8130FBP/AN8130K - A/D Converter, 10-bit res., 20 MSPS, 5V/-5V, 750mW cons., 42pin or 64pin pkg (Panasonic TU-AHD100/N)
+ AN8131FBP - 10-bit res., 20 MSPS, 5V, 300mW cons., 48pin pkg
+ AN8140K/AN8140S - D/A Converter, 10-bit resolution, 50 MSPS, 5V, 150mW cons., TTL
+ AN8145FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg (Panasonic TU-AHD100/N)
+ AN8146FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg
+ MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R)
+ ?MN1020003? - ?MPU? (Pioneer PDP-502R)
+ MN18888TIG - Synchronization
+ MN18888TNG - ?Synchronization? (Panasonic TU-AHD100/N)
+ MN47C401FS - 4M Field Memory (Panasonic TU-AHD100/N 3x)
+ MN4760S - ?mem? (Panasonic TU-AHD100/N 3x)
+ MN47V77S - 256kb FIFO Field Memory (Mitsubishi MD-CZ11 6x)
+ MN53060TUG - Timing generator
+ MN5350 - ?? (Mitsubishi MD-CZ11)
+ MN6570TF - 3ch D/A Converter, 8-bit resolution, 40MSPS (Panasonic TU-AHD100/N 2x) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
+ MN65771F - A/D, 10-bit res, 18MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
+ MN73018TUR - ?? (Victor HD-MD2)
+ MN73534TUD - Audio Processor 1 (Victor HD-MD2)
+ MN73534TUF - Data Detector
+ MN73556TUE - Audio Processor 2
+ MN76022TVF - Synchronization (Panasonic TU-AHD100/N)
+ MN8231A - ?? (Panasonic TU-AHD100/N)
+ MN82501 - ?? (Panasonic TU-AHD100/N)
+ MN82511 - ?? (Pioneer PDP-502R)
+ MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
+
+Panasonic (Matsushita)/LSI Logic
+ L7A0956 HDSC2 - ?? (Panasonic TU-AHD100/N)
+ L7A1002 HDSC1 - ?? (Panasonic TU-AHD100/N)
+ L7A1133 - Audio Processor (Panasonic TU-AHD100/N)
+
+Pioneer
+ PD5527A9 - ?? (Pioneer PDP-502R - not on MUSE-board, on MUSE-riser-board)
+ PD5533E9/PD5533F - ?? (Pioneer PDP-502R - not on MUSE-board, probably main CPU)
+
+Sanyo
+ LC3564QM-10 - 8Kbyte SRAM (Panasonic TU-AHD100/N)
+ LC3664RML - 8Kbyte SRAM (Victor HD-MD2 4x)
+ LC78835KM - 18-bit digital filter and D/A for Audio (Mitsubishi MD-CZ11 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
+
+Sharp
+ LH50523 - Delay circuit for 2D Filter
+ LH50524 - 12/11 time interval extender? (12/11時間伸長)
+ LH50529 - Equalizer processor (Panasonic TU-AHD100/N)
+ LH50530 - ?? (Panasonic TU-AHD100/N)
+ LH5317YN - ?? (Pioneer PDP-502R)
+
+Sony
+ CXA1219M - NTSC/PAL video encoder
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N)
+ CXA1605AQ - ?? (Sony MSC-4000)
+ CXA1732M - ?? (Sony MSC-4000)
+ CXA1834Q - ?? (Sony MSC-4000)
+ CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
+ CXD1175AM - 8-bit 20MSPS Video A/D Converter (Sony SAU-500MN)
+ CXD1214G - Inverse Matrix
+ CXD1215G - Gamma corrector
+ CXD2015Q - ?? (Hitachi HD-M20)
+ CXD2015AQ - ?? (Sony MSC-4000)
+ CXD2020AQ - ?? (Sony SAU-500MN)
+ CXD2021Q - ?? (Sony SAU-500MN)
+ CXD2038Q - ?? (Sony MSC-4000)
+ CXD2305Q - ?? (Sony MSC-4000, Hitachi HD-M20)
+ CXD2307Q - ?? (Sony MSC-4000)
+ CXK1206AM - ?SRAM? (Sony SAU-500MN - 3x)
+ ?CXP861138? - ?? (Sony MSC-4000)
+ CXP5068H-230Q - ?4-bit? MCU (Sony SAU-500MN)
+ D29170 - ?? (Sony MSC-4000)
+
+Texas Instruments
+ 8AC524K - ?? (Pioneer PDP-502R)
+ D77538PGE - ?? (Pioneer PDP-502R)
+ TMS57130APPM - ?? (Sony MSC-4000)
+ TMS57131PPM - ?? (Sony MSC-4000)
+ Y2932 - ?? (Pioneer PDP-502R)
+
+Toshiba (東芝)
+ TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-502R 2x)
+ TC9043N - Non-linear processor
+ TC9044N - Motion detection 1
+ TC9045N - Motion detection 2
+ TC9046N - Motion detection 3
+ TC9047N-001 - Symmetric Filter (12M LPF)
+ TC9047N-002 - Symmetric Filter (2D Filter - Center)
+ TC9047N-003 - Symmetric Filter (2D Filter - Internal/Inside)
+ TC9047N-004 - Symmetric Filter (2D Filter - External/Outside)
+ TC9231N - Digital Audio Modulator (Victor HD-MD2 2x)
+
+Victronix
+ VN4772S-03 - ?? (Panasonic TU-AHD100/N)
+ VN4774S-03 - ?? (Panasonic TU-AHD100/N)
+
+Others
+ 74AC00 - ?? (Pioneer PDP-502R)
+ 74AC244 - ?? (Panasonic TU-AHD100/N 2x)
+ 74AC74 - ?? (Panasonic TU-AHD100/N)
+ 74HC4066A - ?? (Pioneer PDP-502R)
+ 74HC4316 - ?? (Panasonic TU-AHD100/N)
+ 74HC74A - ?? (Pioneer PDP-502R)
+ AN6554NS - Op-amp (Panasonic TU-AHD100/N)
+ F432116PH - ?? (Pioneer PDP-502R)
+ PCM67P - ?? (Victor HD-MD2 2x)
+ PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
