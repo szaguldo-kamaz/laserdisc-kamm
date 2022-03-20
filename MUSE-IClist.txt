@@ -63,13 +63,13 @@ NEC (Nihon Denki - 日本電気)
  D42102G-3 - ?? (Mitsubishi MD-CZ11)
  D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R)
  D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11)
- D42102G-X - 1H delay line
+ D42102G-X - 1-H Line Delay
  D42291R - Image memory
  D42291GJ - 2M Field memory (Panasonic TU-AHD100/N)
  D60310GF - MUSE input processor (Panasonic TU-AHD100/N)
- D6470DU - Asymmetric filter
- D6471DU - Color Processor 1
- D6472DU - Color Processor 2
+ D6470DU - Asymmetrical digital filter (Data rate conversion 32.4M -> 48.6M)
+ D6471DU - Chrominance (Color) Processor 1
+ D6472DU - Chrominance (Color) Processor 2
  D6475GD - MUSE signal processor (Panasonic TU-AHD100/N)
  D6476GD - Luminance signal processor (Panasonic TU-AHD100/N)
  D6477GD - Luminance output processor (Panasonic TU-AHD100/N)
@@ -101,13 +101,13 @@ Panasonic (Matsushita - 松下)
  MN47C401FS - 4M Field Memory (Panasonic TU-AHD100/N 3x)
  MN4760S - ?mem? (Panasonic TU-AHD100/N 3x)
  MN47V77S - 256kb FIFO Field Memory (Mitsubishi MD-CZ11 6x)
- MN53060TUG - Timing generator
+ MN53060TUG - Control Timing Signal Generator (TSG)
  MN5350 - ?? (Mitsubishi MD-CZ11)
  MN6570TF - 3ch D/A Converter, 8-bit resolution, 40MSPS (Panasonic TU-AHD100/N 2x) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
  MN65771F - A/D, 10-bit res, 18MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
  MN73018TUR - ?? (Victor HD-MD2)
  MN73534TUD - Audio Processor 1 (Victor HD-MD2)
- MN73534TUF - Data Detector
+ MN73534TUF - Control Data Decoder
  MN73556TUE - Audio Processor 2
  MN76022TVF - Synchronization (Panasonic TU-AHD100/N)
  MN8231A - ?? (Panasonic TU-AHD100/N)
@@ -166,6 +166,7 @@ Texas Instruments
  Y2932 - ?? (Pioneer PDP-502R)
 
 Toshiba (東芝)
+ TC160G16AF0104 - Clock gen (for TC9071F?)- 2nd gen MUSE decoder
  TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-502R 2x)
  TC9043N - Non-linear processor
  TC9044N - Motion detection 1
@@ -175,7 +176,12 @@ Toshiba (東芝)
  TC9047N-002 - Symmetric Filter (2D Filter - Center)
  TC9047N-003 - Symmetric Filter (2D Filter - Internal/Inside)
  TC9047N-004 - Symmetric Filter (2D Filter - External/Outside)
+ TC9056F - MUSE-Audio - 100 pin QFP - 2nd gen MUSE decoder
+ TC9071F - TIM - Sync. Regen. Equalizer (Timing, Clock/sync regen, clamp + video level control, 32-tap adaptive EQ) - 144 pin QFP - 2nd gen MUSE decoder
+ TC9072G - MPP - Motion Picture Processing (De-emphasis filt, 2D filt, frame interpolator, custom RAM for line-delay) - 144 pin QFP - 2nd gen MUSE decoder
+ TC9073F - MOD - Motion Detection (4-bit motion detection for luma+chroma, line-delay RAM) - 144 pin QFP - 2nd gen MUSE decoder
  TC9231N - Digital Audio Modulator (Victor HD-MD2 2x)
+ TMP91C640 - MCU - 2nd gen MUSE decoder
 
 Victronix
  VN4772S-03 - ?? (Panasonic TU-AHD100/N)
@@ -192,3 +198,6 @@ Others
  F432116PH - ?? (Pioneer PDP-502R)
  PCM67P - ?? (Victor HD-MD2 2x)
  PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
+ SC371035FU - SPP - Still Picture Processing (Sample rate conversion filt., mixer, field interpolation) - 120 pin QFP - 2nd gen MUSE decoder
+ SC371036FU - CSP - Color Signal Processing (MUSE color signal proc, 11:12 time expansion, 44.55MHz clk gen) - 160 pin QFP - 2nd gen MUSE decoder
+ TA8811N - Matrix CRT-Gamma - 54 pin SDIP - 2nd gen MUSE decoder
