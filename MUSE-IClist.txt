@@ -4,14 +4,23 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
-AKM
- AK41311VM - ?? (Pioneer PDP-502R 2x)
+AKM (Asahi Kasei Microdevices)
+ AK41311VM - ?Audio DAC? (Pioneer PDP-502R 2x)
+
+Burr-Brown
+ PCM67P - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HD-MD2 2x)
+ PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN)
 
 CSI
  CAT514221A-3 - ?mem? (Victor HD-MD2 4x vagy 6x?)
 
 Fujitsu
  MB81C79A - 72Kbit SRAM (Sony SAU-500MN)
+ MB86110 - ??
+ MB86111 - ??
+ MB86112 - ??
+ MB86113 - ??
+ MB86114 - ??
  MB86115 - ?? (Hitachi HD-M20)
  MB86115A - ?? (Sony SAU-500MN)
  MB86116 - ?? (Hitachi HD-M20)
@@ -196,7 +205,6 @@ Others
  74HC74A - ?? (Pioneer PDP-502R)
  AN6554NS - Op-amp (Panasonic TU-AHD100/N)
  F432116PH - ?? (Pioneer PDP-502R)
- PCM67P - ?? (Victor HD-MD2 2x)
  PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
  SC371035FU - SPP - Still Picture Processing (Sample rate conversion filt., mixer, field interpolation) - 120 pin QFP - 2nd gen MUSE decoder
  SC371036FU - CSP - Color Signal Processing (MUSE color signal proc, 11:12 time expansion, 44.55MHz clk gen) - 160 pin QFP - 2nd gen MUSE decoder
