@@ -15,22 +15,22 @@ Fujitsu
  MB86115 - ?? (Hitachi HD-M20)
  MB86115A - ?? (Sony SAU-500MN)
  MB86116 - ?? (Hitachi HD-M20)
- MB40978P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HD-MD2)
- MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HD-MD2)
  MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
+ MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HD-MD2)
+ MB40978P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HD-MD2)
 
 Hitachi
- HD49407 - Waveform equalization TRF
- HD74AC244P - Octal buffer and line driver for mem address (Victor HD-MD2)
  HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HD-MD2) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
  HA19214NT - A/D Converter
+ HD49407 - Waveform equalization TRF
+ HD74AC244P - Octal buffer and line driver for mem address (Victor HD-MD2)
  H8/532 - HD6475328F10 - MCU (Panasonic TU-AHD100/N - TVRAJ039A label)
 
 JVC (Nihon Victor - 日本ビクター)
- LH50530 - MUSE-NTSC Conversion unit (128 QFP) (Panasonic TU-AHD100/N)
  JCC5003 - ?? (Victor HD-MD2 2x)
  JCC5004 - ?? (Victor HD-MD2)
  JCC5032-A - ?? (Mitsubishi MD-CZ11)
+ LH50530 - MUSE-NTSC Conversion unit (128 QFP) (Panasonic TU-AHD100/N)
 
 JVC/OKI
  M91U055 - ?? (Victor HD-MD2)
@@ -39,7 +39,7 @@ Macronix (MX)
  N3P1003QF - ?? (Panasonic TU-AHD100/N)
 
 Mitsubishi
- M50253P - 12 BIT / 16 BIT SERIAL PARALLEL CONVERTER (Victor HD-MD2) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
+ M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HD-MD2) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
  M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HD-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M52347FP - Sync. signal processor (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
  M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11)
@@ -107,7 +107,7 @@ Panasonic (Matsushita - 松下)
  MN65771F - A/D, 10-bit res, 18MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
  MN73018TUR - ?? (Victor HD-MD2)
  MN73534TUD - Audio Processor 1 (Victor HD-MD2)
- MN73534TUF - Control Data Decoder
+ MN73534TUF - Control Data Decoder (Maybe MN73535TUF?)
  MN73556TUE - Audio Processor 2
  MN76022TVF - Synchronization (Panasonic TU-AHD100/N)
  MN8231A - ?? (Panasonic TU-AHD100/N)
@@ -161,8 +161,8 @@ Sony
 Texas Instruments
  8AC524K - ?? (Pioneer PDP-502R)
  D77538PGE - ?? (Pioneer PDP-502R)
- TMS57130APPM - ?? (Sony MSC-4000)
- TMS57131PPM - ?? (Sony MSC-4000)
+ TMS57130APPM - ?DSP? (Sony MSC-4000)
+ TMS57131PPM - ?DSP? (Sony MSC-4000)
  Y2932 - ?? (Pioneer PDP-502R)
 
 Toshiba (東芝)
