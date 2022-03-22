@@ -9,17 +9,20 @@ AKM (Asahi Kasei Microdevices)
 
 Burr-Brown
  PCM67P - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HD-MD2 2x)
- PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN)
+ PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN, Hitachi HD-M20 x5)
 
 CSI
  CAT514221A-3 - ?mem? (Victor HD-MD2 4x vagy 6x?)
 
+Cypress Semiconductor:
+ CY7C182-35VC - SRAM 72Kb (8K x 9) (Sony MSC-4000)
+
 Fujitsu
- MB81C79A - 72Kbit SRAM (Sony SAU-500MN)
+ MB81C79A - 72Kbyte (8K x 9) SRAM (Sony SAU-500MN)
  MB86110 - ??
  MB86111 - ??
  MB86112 - ??
- MB86113 - ??
+ MB86113 - ?? (?Hitachi HD-M20?)
  MB86114 - ??
  MB86115 - ?? (Hitachi HD-M20)
  MB86115A - ?? (Sony SAU-500MN)
@@ -157,12 +160,12 @@ Sony
  CXD1215G - Gamma corrector
  CXD2015Q - ?? (Hitachi HD-M20)
  CXD2015AQ - ?? (Sony MSC-4000)
- CXD2020AQ - ?? (Sony SAU-500MN)
- CXD2021Q - ?? (Sony SAU-500MN)
+ CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder (Sony SAU-500MN)
+ CXD2021Q - MUSE-NTSC Signal Conversion Decoder (Sony SAU-500MN)
  CXD2038Q - ?? (Sony MSC-4000)
- CXD2305Q - ?? (Sony MSC-4000, Hitachi HD-M20)
- CXD2307Q - ?? (Sony MSC-4000)
- CXK1206AM - ?SRAM? (Sony SAU-500MN - 3x)
+ CXD2305Q - 3ch 10-bit, ?50? MSPS DAC (Sony MSC-4000, Hitachi HD-M20)
+ CXD2307Q - 3ch 10-bit, 50 MSPS DAC (Sony MSC-4000)
+ CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x)
  ?CXP861138? - ?? (Sony MSC-4000)
  CXP5068H-230Q - ?4-bit? MCU (Sony SAU-500MN)
  D29170 - ?? (Sony MSC-4000)
