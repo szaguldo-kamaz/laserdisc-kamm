@@ -5,7 +5,8 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
 AKM (Asahi Kasei Microdevices)
- AK41311VM - ?Audio DAC? (Pioneer PDP-502R 2x)
+ AK4311VM - 16-bit Sigma-Delta Stereo DAC Audio (Pioneer PDP-502R 2x)
+ AK4319VM - 18-bit Stereo DAC Audio (Sony MSC-4000 5x)
 
 Burr-Brown
  PCM67P - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HD-MD2 2x)
@@ -25,7 +26,7 @@ Fujitsu
  MB86113 - ?? (?Hitachi HD-M20?)
  MB86114 - ??
  MB86115 - ?? (Hitachi HD-M20)
- MB86115A - ?? (Sony SAU-500MN)
+ MB86115A - ?? (Sony SAU-500MN, Sony MSC-4000)
  MB86116 - ?? (Hitachi HD-M20)
  MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HD-MD2)
@@ -73,6 +74,7 @@ Mitsubishi
 NEC (Nihon Denki - 日本電気)
  D42102C-3 - ?? (Victor HD-MD2)
  D42102G-3 - ?? (Mitsubishi MD-CZ11)
+ D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x)
  D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R)
  D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11)
  D42102G-X - 1-H Line Delay
@@ -149,10 +151,12 @@ Sharp
  LH5317YN - ?? (Pioneer PDP-502R)
 
 Sony
+ A1833Q - ?? (Sony MSC-4000)
  CXA1219M - NTSC/PAL video encoder
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N)
+ CXA1451M - Wideband Video Switch (Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
  CXA1605AQ - ?? (Sony MSC-4000)
- CXA1732M - ?? (Sony MSC-4000)
+ CXA1732M - ?? (Sony MSC-4000 board A)
  CXA1834Q - ?? (Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
  CXD1175AM - 8-bit 20MSPS Video A/D Converter (Sony SAU-500MN)
@@ -162,11 +166,13 @@ Sony
  CXD2015AQ - ?? (Sony MSC-4000)
  CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder (Sony SAU-500MN)
  CXD2021Q - MUSE-NTSC Signal Conversion Decoder (Sony SAU-500MN)
+ CXD2037Q - ?? (Sony MSC-4000)
  CXD2038Q - ?? (Sony MSC-4000)
  CXD2305Q - 3ch 10-bit, ?50? MSPS DAC (Sony MSC-4000, Hitachi HD-M20)
- CXD2307Q - 3ch 10-bit, 50 MSPS DAC (Sony MSC-4000)
  CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x)
- ?CXP861138? - ?? (Sony MSC-4000)
+ CXP80624A - 8-bit MCU with 24Kbyte ROM (Sony MSC-4000)
+ CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
+ CXP86116B - !?? (Sony MSC-4000 board A)
  CXP5068H-230Q - ?4-bit? MCU (Sony SAU-500MN)
  D29170 - ?? (Sony MSC-4000)
 
@@ -200,15 +206,18 @@ Victronix
  VN4774S-03 - ?? (Panasonic TU-AHD100/N)
 
 Others
- 74AC00 - ?? (Pioneer PDP-502R)
- 74AC244 - ?? (Panasonic TU-AHD100/N 2x)
- 74AC74 - ?? (Panasonic TU-AHD100/N)
- 74HC4066A - ?? (Pioneer PDP-502R)
- 74HC4316 - ?? (Panasonic TU-AHD100/N)
- 74HC74A - ?? (Pioneer PDP-502R)
+ 74AC00 - Quad NAND gate (Pioneer PDP-502R)
+ 74AC244 - Octal Buffer/Line Drive (Panasonic TU-AHD100/N 2x)
+ 74AC74 - Dual D Flip-Flop (Panasonic TU-AHD100/N)
+ 74HC4066A - Quad analog switch  (Pioneer PDP-502R)
+ 74HC4316 - Analog switch (Panasonic TU-AHD100/N)
+ 74HC4538A - Dual prec. monostab. multivib (Sony MSC-4000 board A)
+ 74HC74A - Dual D Flip-Flop (Pioneer PDP-502R)
  AN6554NS - Op-amp (Panasonic TU-AHD100/N)
  F432116PH - ?? (Pioneer PDP-502R)
  PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
+ MC14052B - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 2x board A)
+ MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 3x board A)
  SC371035FU - SPP - Still Picture Processing (Sample rate conversion filt., mixer, field interpolation) - 120 pin QFP - 2nd gen MUSE decoder
  SC371036FU - CSP - Color Signal Processing (MUSE color signal proc, 11:12 time expansion, 44.55MHz clk gen) - 160 pin QFP - 2nd gen MUSE decoder
  TA8811N - Matrix CRT-Gamma - 54 pin SDIP - 2nd gen MUSE decoder
