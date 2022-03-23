@@ -69,7 +69,7 @@ Mitsubishi
  M65642FP - ?? (Pioneer PDP-502R)
  M65648FP - ?? (Pioneer PDP-502R)
  M65649FP - ?? (Pioneer PDP-502R)
- M66006 - 12-BIT I/O EXPANDER - parellel<>serial (Panasonic TU-AHD100/N)
+ M66006 - 12-bit I/O Expander - Parallel<>Serial (Panasonic TU-AHD100/N)
 
 NEC (Nihon Denki - 日本電気)
  D42102C-3 - ?? (Victor HD-MD2)
@@ -109,7 +109,7 @@ Panasonic (Matsushita - 松下)
  AN8145FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg (Panasonic TU-AHD100/N)
  AN8146FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg
  MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R)
- ?MN1020003? - ?MPU? (Pioneer PDP-502R)
+ ?MN1020003? - ?MCU? (Pioneer PDP-502R)
  MN18888TIG - Synchronization
  MN18888TNG - ?Synchronization? (Panasonic TU-AHD100/N)
  MN47C401FS - 4M Field Memory (Panasonic TU-AHD100/N 3x)
@@ -117,8 +117,8 @@ Panasonic (Matsushita - 松下)
  MN47V77S - 256kb FIFO Field Memory (Mitsubishi MD-CZ11 6x)
  MN53060TUG - Control Timing Signal Generator (TSG)
  MN5350 - ?? (Mitsubishi MD-CZ11)
- MN6570TF - 3ch D/A Converter, 8-bit resolution, 40MSPS (Panasonic TU-AHD100/N 2x) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
- MN65771F - A/D, 10-bit res, 18MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
+ MN6570TF - 3ch D/A Converter, 8-bit resolution, 40 MSPS (Panasonic TU-AHD100/N 2x) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
+ MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
  MN73018TUR - ?? (Victor HD-MD2)
  MN73534TUD - Audio Processor 1 (Victor HD-MD2)
  MN73534TUF - Control Data Decoder (Maybe MN73535TUF?)
@@ -159,7 +159,7 @@ Sony
  CXA1732M - ?? (Sony MSC-4000 board A)
  CXA1834Q - ?? (Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
- CXD1175AM - 8-bit 20MSPS Video A/D Converter (Sony SAU-500MN)
+ CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN)
  CXD1214G - Inverse Matrix
  CXD1215G - Gamma corrector
  CXD2015Q - ?? (Hitachi HD-M20)
@@ -172,7 +172,7 @@ Sony
  CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x)
  CXP80624A - 8-bit MCU with 24Kbyte ROM (Sony MSC-4000)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
- CXP86116B - !?? (Sony MSC-4000 board A)
+ CXP86116B - 8-bit MCU with 16Kbyte ROM / 576 byte RAM (Sony MSC-4000 board A)
  CXP5068H-230Q - ?4-bit? MCU (Sony SAU-500MN)
  D29170 - ?? (Sony MSC-4000)
 
