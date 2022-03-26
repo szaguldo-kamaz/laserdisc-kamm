@@ -152,24 +152,25 @@ Sharp
 
 Sony
  A1833Q - ?? (Sony MSC-4000)
- CXA1219M - NTSC/PAL video encoder
+ CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N)
  CXA1451M - Wideband Video Switch (Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
  CXA1605AQ - ?? (Sony MSC-4000)
  CXA1732M - ?? (Sony MSC-4000 board A)
  CXA1834Q - ?? (Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
- CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN)
+ CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD1214G - Inverse Matrix
  CXD1215G - Gamma corrector
  CXD2015Q - ?? (Hitachi HD-M20)
  CXD2015AQ - ?? (Sony MSC-4000)
- CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder (Sony SAU-500MN)
- CXD2021Q - MUSE-NTSC Signal Conversion Decoder (Sony SAU-500MN)
+ CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder (Sony SAU-500MN, ?Sony SAU-300MN?)
+ CXD2021Q - MUSE-NTSC Signal Conversion Decoder (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD2037Q - ?? (Sony MSC-4000)
  CXD2038Q - ?? (Sony MSC-4000)
+ CXD2067 - HDTV-NTSC Converter
  CXD2305Q - 3ch 10-bit, ?50? MSPS DAC (Sony MSC-4000, Hitachi HD-M20)
- CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x)
+ CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x, ?Sony SAU-300MN - 3x?)
  CXP80624A - 8-bit MCU with 24Kbyte ROM (Sony MSC-4000)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
  CXP86116B - 8-bit MCU with 16Kbyte ROM / 576 byte RAM (Sony MSC-4000 board A)
