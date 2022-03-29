@@ -62,6 +62,7 @@ Mitsubishi
  M52654FP - ?? (Pioneer PDP-502R)
  M52655FP - ?? (Pioneer PDP-502R)
  M52657FP - ?? (Pioneer PDP-502R)
+ M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
  M65530FP - ?? (Pioneer PDP-502R)
  ?M65601FP? - ?? (Victor HD-MD2)
  M65620FP - Output processor (Panasonic TU-AHD100/N)
@@ -109,7 +110,7 @@ Panasonic (Matsushita - 松下)
  AN8145FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg (Panasonic TU-AHD100/N)
  AN8146FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg
  MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R)
- ?MN1020003? - ?MCU? (Pioneer PDP-502R)
+ MN1020003 - ?MCU? (Pioneer PDP-502R)
  MN18888TIG - Synchronization
  MN18888TNG - ?Synchronization? (Panasonic TU-AHD100/N)
  MN47C401FS - 4M Field Memory (Panasonic TU-AHD100/N 3x)
@@ -153,7 +154,7 @@ Sharp
 Sony
  A1833Q - ?? (Sony MSC-4000)
  CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
- CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N, Pioneer PDP-502R)
  CXA1451M - Wideband Video Switch (Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
  CXA1605AQ - ?? (Sony MSC-4000)
  CXA1732M - ?? (Sony MSC-4000 board A)
