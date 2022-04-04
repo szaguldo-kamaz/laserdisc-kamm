@@ -20,14 +20,15 @@ Cypress Semiconductor:
 
 Fujitsu
  MB81C79A - 72Kbyte (8K x 9) SRAM (Sony SAU-500MN)
- MB86110 - ??
- MB86111 - ??
- MB86112 - ??
- MB86113 - ?? (?Hitachi HD-M20?)
- MB86114 - ??
- MB86115 - ?? (Hitachi HD-M20)
- MB86115A - ?? (Sony SAU-500MN, Sony MSC-4000)
+ MB86110 - 2G LSI - "Input Processor"
+ MB86111 - 2G LSI - "Video Processor"
+ MB86112 - 2G LSI - "Motion Detector"
+ MB86113 - 2G LSI - "Time Base" (?Hitachi HD-M20?)
+ MB86114 - 2G LSI - "Output Processor"
+ MB86115 - 2G LSI - "MUSE Sound Processor" (Hitachi HD-M20)
+ MB86115A - 2G LSI - "MUSE Sound Processor" (Sony SAU-500MN, Sony MSC-4000)
  MB86116 - ?? (Hitachi HD-M20)
+ MB86118 - 1-chip M-N Converter
  MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HD-MD2)
  MB40978P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HD-MD2)
@@ -36,6 +37,7 @@ Hitachi
  HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HD-MD2) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
  HA19214NT - A/D Converter
  HD49407 - Waveform equalization TRF
+ HD49417 - "Output Processor" for Sound
  HD74AC244P - Octal buffer and line driver for mem address (Victor HD-MD2)
  H8/532 - HD6475328F10 - MCU (Panasonic TU-AHD100/N - TVRAJ039A label)
 
@@ -56,17 +58,17 @@ Mitsubishi
  M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HD-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M52347FP - Sync. signal processor (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
  M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11)
- M52650FP - Analog input processor (Panasonic TU-AHD100/N)
- M52651SP - Analog output processor (Panasonic TU-AHD100/N)
- M52652SP - Clock generator
+ M52650FP - 2G LSI - IPU / Analog input processor (Panasonic TU-AHD100/N)
+ M52651SP - 2G LSI - OPU / Analog output processor (Panasonic TU-AHD100/N)
+ M52652SP - 2G LSI - CKU / Clock generator
  M52654FP - ?? (Pioneer PDP-502R)
  M52655FP - ?? (Pioneer PDP-502R)
  M52657FP - ?? (Pioneer PDP-502R)
  M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
  M65530FP - ?? (Pioneer PDP-502R)
  ?M65601FP? - ?? (Victor HD-MD2)
- M65620FP - Output processor (Panasonic TU-AHD100/N)
- M65621FP - Motion detector
+ M65620FP - 2G LSI - OCP / Output processor (Panasonic TU-AHD100/N)
+ M65621FP - 2G LSI - MDP / Motion detector - ?Same as MN82501?
  M65642FP - ?? (Pioneer PDP-502R)
  M65648FP - ?? (Pioneer PDP-502R)
  M65649FP - ?? (Pioneer PDP-502R)
@@ -81,20 +83,20 @@ NEC (Nihon Denki - 日本電気)
  D42102G-X - 1-H Line Delay
  D42291R - Image memory
  D42291GJ - 2M Field memory (Panasonic TU-AHD100/N)
- D60310GF - MUSE input processor (Panasonic TU-AHD100/N)
+ D60310GF - 2G LSI - MIP / MUSE Input Processor (Panasonic TU-AHD100/N)
  D6470DU - Asymmetrical digital filter (Data rate conversion 32.4M -> 48.6M)
  D6471DU - Chrominance (Color) Processor 1
  D6472DU - Chrominance (Color) Processor 2
- D6475GD - MUSE signal processor (Panasonic TU-AHD100/N)
- D6476GD - Luminance signal processor (Panasonic TU-AHD100/N)
- D6477GD - Luminance output processor (Panasonic TU-AHD100/N)
+ D6475GD - 2G LSI - MSP / MUSE video signal processor (Panasonic TU-AHD100/N)
+ D6476GD - 2G LSI - YSP / Luminance signal processor (Panasonic TU-AHD100/N)
+ D6477GD - 2G LSI - YOP / Luminance output processor (Panasonic TU-AHD100/N)
  D9375CW - Video Processing Unit 1
  D9376CW - Video Processing Unit 2
  D9377C - Video Processing Unit 3
  D9378GB - Small capacity FIFO
 
 NEC/VLSI Technology
- VY06434 - Color processor (Panasonic TU-AHD100/N)
+ VY06434 - 2G LSI - CSP / Color processor (Panasonic TU-AHD100/N)
 
 NPC
  SM5840CP - Digital Oversampling Filter (Audio) (Victor HD-MD2 2x)
@@ -111,8 +113,8 @@ Panasonic (Matsushita - 松下)
  AN8146FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg
  MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R)
  MN1020003 - ?MCU? (Pioneer PDP-502R)
- MN18888TIG - Synchronization
- MN18888TNG - ?Synchronization? (Panasonic TU-AHD100/N)
+ MN18888TIG - 2G LSI - STG / Synchronization
+ MN18888TNG - 2G LSI - ?STG / Synchronization? (Panasonic TU-AHD100/N)
  MN47C401FS - 4M Field Memory (Panasonic TU-AHD100/N 3x)
  MN4760S - ?mem? (Panasonic TU-AHD100/N 3x)
  MN47V77S - 256kb FIFO Field Memory (Mitsubishi MD-CZ11 6x)
@@ -124,16 +126,16 @@ Panasonic (Matsushita - 松下)
  MN73534TUD - Audio Processor 1 (Victor HD-MD2)
  MN73534TUF - Control Data Decoder (Maybe MN73535TUF?)
  MN73556TUE - Audio Processor 2
- MN76022TVF - Synchronization (Panasonic TU-AHD100/N)
+ MN76022TVF - 2G LSI - STG / Synchronization (Panasonic TU-AHD100/N)
  MN8231A - ?? (Panasonic TU-AHD100/N)
- MN82501 - ?? (Panasonic TU-AHD100/N)
+ MN82501 - 2G LSI - MDP / Motion detector - ?Same as M65621FP? (Panasonic TU-AHD100/N)
  MN82511 - ?? (Pioneer PDP-502R)
  MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
 
 Panasonic (Matsushita)/LSI Logic
  L7A0956 HDSC2 - ?? (Panasonic TU-AHD100/N)
  L7A1002 HDSC1 - ?? (Panasonic TU-AHD100/N)
- L7A1133 - Audio Processor (Panasonic TU-AHD100/N)
+ L7A1133 - 2G LSI - MAP / MUSE Audio Processor (Panasonic TU-AHD100/N)
 
 Pioneer
  PD5527A9 - ?? (Pioneer PDP-502R - not on MUSE-board, on MUSE-riser-board)
@@ -142,13 +144,24 @@ Pioneer
 Sanyo
  LC3564QM-10 - 8Kbyte SRAM (Panasonic TU-AHD100/N)
  LC3664RML - 8Kbyte SRAM (Victor HD-MD2 4x)
+ LC7492E - 2G LSI - MUSE Processor (in M-N converter)
+ LC7493F - 2G LSI - NTSC Processor (in M-N converter)
  LC78835KM - 18-bit digital filter and D/A for Audio (Mitsubishi MD-CZ11 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
+ LCL6301F - 2G LSI - Equalizer
+ LCL6302F - 2G LSI - Data detector
+ LCL6303F - 2G LSI - Video processor
+ LCL6304F - 2G LSI - Still Picture Processing
+ LCL6305F - 2G LSI - Motion detector 1
+ LCL6306F - 2G LSI - MIX - Chroma procesoor
+ LCL6307F - 2G LSI - Motion detector 2
+ LCL6308F - 2G LSI - Output processor
+ LCL7896E - 2G LSI - MUSE Sound Processor
 
 Sharp
  LH50523 - Delay circuit for 2D Filter
  LH50524 - 12/11 time interval extender? (12/11時間伸長)
- LH50529 - Equalizer processor (Panasonic TU-AHD100/N)
- LH50530 - ?? (Panasonic TU-AHD100/N)
+ LH50529 - 2G LSI - Equalizer processor (Panasonic TU-AHD100/N)
+ LH50530 - 2G LSI - HD-NTSC Converter (Panasonic TU-AHD100/N)
  LH5317YN - ?? (Pioneer PDP-502R)
 
 Sony
@@ -156,21 +169,23 @@ Sony
  CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N, Pioneer PDP-502R)
  CXA1451M - Wideband Video Switch (Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
- CXA1605AQ - ?? (Sony MSC-4000)
+ CXA1603 - S/H
+ CXA1604 - 10-bit 32M A/D Converter
+ CXA1605AQ - "Analog Input Processor" (Sony MSC-4000)
  CXA1732M - ?? (Sony MSC-4000 board A)
  CXA1834Q - ?? (Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
  CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD1214G - Inverse Matrix
  CXD1215G - Gamma corrector
- CXD2015Q - ?? (Hitachi HD-M20)
- CXD2015AQ - ?? (Sony MSC-4000)
- CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder (Sony SAU-500MN, ?Sony SAU-300MN?)
- CXD2021Q - MUSE-NTSC Signal Conversion Decoder (Sony SAU-500MN, ?Sony SAU-300MN?)
+ CXD2015Q - 2G LSI - "Equalizer" (Hitachi HD-M20)
+ CXD2015AQ - 2G LSI - "Equalizer" (Sony MSC-4000)
+ CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder / MUSE Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
+ CXD2021Q - MUSE-NTSC Signal Conversion Decoder / NTSC Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD2037Q - ?? (Sony MSC-4000)
  CXD2038Q - ?? (Sony MSC-4000)
  CXD2067 - HDTV-NTSC Converter
- CXD2305Q - 3ch 10-bit, ?50? MSPS DAC (Sony MSC-4000, Hitachi HD-M20)
+ CXD2305Q - 3ch 10-bit, ?45?50? MSPS DAC (Sony MSC-4000, Hitachi HD-M20)
  CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x, ?Sony SAU-300MN - 3x?)
  CXP80624A - 8-bit MCU with 24Kbyte ROM (Sony MSC-4000)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
@@ -186,7 +201,8 @@ Texas Instruments
  Y2932 - ?? (Pioneer PDP-502R)
 
 Toshiba (東芝)
- TC160G16AF0104 - Clock gen (for TC9071F?)- 2nd gen MUSE decoder
+ TA8897F - Gamma corrector (for NTSC after M-N?)
+ TC160G16AF0104 - Clock gen / Clock drive (for TC9071F?)
  TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-502R 2x)
  TC9043N - Non-linear processor
  TC9044N - Motion detection 1
@@ -196,12 +212,13 @@ Toshiba (東芝)
  TC9047N-002 - Symmetric Filter (2D Filter - Center)
  TC9047N-003 - Symmetric Filter (2D Filter - Internal/Inside)
  TC9047N-004 - Symmetric Filter (2D Filter - External/Outside)
- TC9056F - MUSE-Audio - 100 pin QFP - 2nd gen MUSE decoder
- TC9071F - TIM - Sync. Regen. Equalizer (Timing, Clock/sync regen, clamp + video level control, 32-tap adaptive EQ) - 144 pin QFP - 2nd gen MUSE decoder
- TC9072G - MPP - Motion Picture Processing (De-emphasis filt, 2D filt, frame interpolator, custom RAM for line-delay) - 144 pin QFP - 2nd gen MUSE decoder
- TC9073F - MOD - Motion Detection (4-bit motion detection for luma+chroma, line-delay RAM) - 144 pin QFP - 2nd gen MUSE decoder
+ TC9056F - 2G LSI - MUSE-Audio Processor - 100 pin QFP
+ TC9071F - 2G LSI - TIM - Sync. Regen. Equalizer (Timing, Clock/sync regen, clamp + video level control, 32-tap adaptive EQ) - 144 pin QFP
+ TC9072G - 2G LSI - MPP - Motion Picture Processing (De-emphasis filt, 2D filt, frame interpolator, custom RAM for line-delay) - 144 pin QFP
+ TC9073F - 2G LSI - MOD - Motion Detection (4-bit motion detection for luma+chroma, line-delay RAM) - 144 pin QFP
+ TC9075F - 2G LSI - 1-chip M-N Converter
  TC9231N - Digital Audio Modulator (Victor HD-MD2 2x)
- TMP91C640 - MCU - 2nd gen MUSE decoder
+ TMP91C640 - 2G LSI - MCU
 
 Victronix
  VN4772S-03 - ?? (Panasonic TU-AHD100/N)
@@ -220,6 +237,7 @@ Others
  PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
  MC14052B - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 2x board A)
  MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 3x board A)
- SC371035FU - SPP - Still Picture Processing (Sample rate conversion filt., mixer, field interpolation) - 120 pin QFP - 2nd gen MUSE decoder
- SC371036FU - CSP - Color Signal Processing (MUSE color signal proc, 11:12 time expansion, 44.55MHz clk gen) - 160 pin QFP - 2nd gen MUSE decoder
- TA8811N - Matrix CRT-Gamma - 54 pin SDIP - 2nd gen MUSE decoder
+ SC371035FU - 2G LSI - SPP - Still Picture Processing (Sample rate conversion filt., mixer, field interpolation) - 120 pin QFP
+ SC371036FU - 2G LSI - CSP - Color Signal Processing (MUSE color signal proc, 11:12 time expansion, 44.55MHz clk gen) - 160 pin QFP
+ TA8811N - 2G LSI - Matrix CRT-Gamma - 54 pin SDIP
+ ZA4041 - 4Mb VRAM
