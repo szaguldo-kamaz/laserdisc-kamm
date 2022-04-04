@@ -9,16 +9,20 @@ AKM (Asahi Kasei Microdevices)
  AK4319VM - 18-bit Stereo DAC Audio (Sony MSC-4000 5x)
 
 Burr-Brown
- PCM67P - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HD-MD2 2x)
+ PCM67P - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x)
  PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN, Hitachi HD-M20 x5)
 
 CSI
- CAT514221A-3 - ?mem? (Victor HD-MD2 4x vagy 6x?)
+ CAT514221A-3 - ?mem? (Victor HV-MC1000 11x)
 
 Cypress Semiconductor:
  CY7C182-35VC - SRAM 72Kb (8K x 9) (Sony MSC-4000)
 
 Fujitsu
+ MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
+ MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000)
+ MB40978P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000)
+ MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
  MB81C79A - 72Kbyte (8K x 9) SRAM (Sony SAU-500MN)
  MB86110 - 2G LSI - "Input Processor"
  MB86111 - 2G LSI - "Video Processor"
@@ -29,33 +33,30 @@ Fujitsu
  MB86115A - 2G LSI - "MUSE Sound Processor" (Sony SAU-500MN, Sony MSC-4000)
  MB86116 - ?? (Hitachi HD-M20)
  MB86118 - 1-chip M-N Converter
- MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
- MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HD-MD2)
- MB40978P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HD-MD2)
 
 Hitachi
- HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HD-MD2) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
+ HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
  HA19214NT - A/D Converter
  HD49407 - Waveform equalization TRF
  HD49417 - "Output Processor" for Sound
- HD74AC244P - Octal buffer and line driver for mem address (Victor HD-MD2)
+ HD74AC244P - Octal buffer and line driver for mem address (Victor HV-MC1000)
  H8/532 - HD6475328F10 - MCU (Panasonic TU-AHD100/N - TVRAJ039A label)
 
 JVC (Nihon Victor - 日本ビクター)
- JCC5003 - ?? (Victor HD-MD2 2x)
- JCC5004 - ?? (Victor HD-MD2)
+ JCC5003 - ?? (Victor HV-MC1000 2x)
+ JCC5004 - ?? (Victor HV-MC1000)
  JCC5032-A - ?? (Mitsubishi MD-CZ11)
  LH50530 - MUSE-NTSC Conversion unit (128 QFP) (Panasonic TU-AHD100/N)
 
 JVC/OKI
- M91U055 - ?? (Victor HD-MD2)
+ M91U055 - ?? (Victor HV-MC1000)
 
 Macronix (MX)
  N3P1003QF - ?? (Panasonic TU-AHD100/N)
 
 Mitsubishi
- M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HD-MD2) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
- M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HD-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
+ M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M52347FP - Sync. signal processor (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
  M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11)
  M52650FP - 2G LSI - IPU / Analog input processor (Panasonic TU-AHD100/N)
@@ -66,7 +67,7 @@ Mitsubishi
  M52657FP - ?? (Pioneer PDP-502R)
  M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
  M65530FP - ?? (Pioneer PDP-502R)
- ?M65601FP? - ?? (Victor HD-MD2)
+ M65601FP - ?? (Victor HV-MC1000)
  M65620FP - 2G LSI - OCP / Output processor (Panasonic TU-AHD100/N)
  M65621FP - 2G LSI - MDP / Motion detector - ?Same as MN82501?
  M65642FP - ?? (Pioneer PDP-502R)
@@ -75,7 +76,7 @@ Mitsubishi
  M66006 - 12-bit I/O Expander - Parallel<>Serial (Panasonic TU-AHD100/N)
 
 NEC (Nihon Denki - 日本電気)
- D42102C-3 - ?? (Victor HD-MD2)
+ D42102C-3 - ?? (Victor HV-MC1000)
  D42102G-3 - ?? (Mitsubishi MD-CZ11)
  D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x)
  D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R)
@@ -99,10 +100,10 @@ NEC/VLSI Technology
  VY06434 - 2G LSI - CSP / Color processor (Panasonic TU-AHD100/N)
 
 NPC
- SM5840CP - Digital Oversampling Filter (Audio) (Victor HD-MD2 2x)
+ SM5840CP - Digital Oversampling Filter (Audio) (Victor HV-MC1000 2x)
 
 OKI
- M72H045 - ?? (Victor HD-MD2)
+ M72H045 - ?? (Victor HV-MC1000)
 
 Panasonic (Matsushita - 松下)
  AN3917S - ?16-pin clock gen? (Pioneer PDP-502R)
@@ -122,8 +123,8 @@ Panasonic (Matsushita - 松下)
  MN5350 - ?? (Mitsubishi MD-CZ11)
  MN6570TF - 3ch D/A Converter, 8-bit resolution, 40 MSPS (Panasonic TU-AHD100/N 2x) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
  MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
- MN73018TUR - ?? (Victor HD-MD2)
- MN73534TUD - Audio Processor 1 (Victor HD-MD2)
+ MN73018TUR - ?? (Victor HV-MC1000)
+ MN73534TUD - Audio Processor 1 (Victor HV-MC1000)
  MN73534TUF - Control Data Decoder (Maybe MN73535TUF?)
  MN73556TUE - Audio Processor 2
  MN76022TVF - 2G LSI - STG / Synchronization (Panasonic TU-AHD100/N)
@@ -143,7 +144,7 @@ Pioneer
 
 Sanyo
  LC3564QM-10 - 8Kbyte SRAM (Panasonic TU-AHD100/N)
- LC3664RML - 8Kbyte SRAM (Victor HD-MD2 4x)
+ LC3664RML - 8Kbyte SRAM (Victor HV-MC1000 4x)
  LC7492E - 2G LSI - MUSE Processor (in M-N converter)
  LC7493F - 2G LSI - NTSC Processor (in M-N converter)
  LC78835KM - 18-bit digital filter and D/A for Audio (Mitsubishi MD-CZ11 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
@@ -217,7 +218,7 @@ Toshiba (東芝)
  TC9072G - 2G LSI - MPP - Motion Picture Processing (De-emphasis filt, 2D filt, frame interpolator, custom RAM for line-delay) - 144 pin QFP
  TC9073F - 2G LSI - MOD - Motion Detection (4-bit motion detection for luma+chroma, line-delay RAM) - 144 pin QFP
  TC9075F - 2G LSI - 1-chip M-N Converter
- TC9231N - Digital Audio Modulator (Victor HD-MD2 2x)
+ TC9231N - Digital Audio Modulator (Victor HV-MC1000 2x)
  TMP91C640 - 2G LSI - MCU
 
 Victronix
