@@ -13,15 +13,15 @@ Burr-Brown
  PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN, Hitachi HD-M20 x5)
 
 CSI
- CAT514221A-3 - ?mem? (Victor HV-MC1000 11x)
+ CAT514221A-3 - ?mem? (Victor HV-MC1000 11x, Victor HV-VMD1 2x)
 
 Cypress Semiconductor:
  CY7C182-35VC - SRAM 72Kb (8K x 9) (Sony MSC-4000)
 
 Fujitsu
  MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
- MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000)
- MB40978P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000)
+ MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1)
+ MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
  MB81C79A - 72Kbyte (8K x 9) SRAM (Sony SAU-500MN)
  MB86110 - 2G LSI - "Input Processor"
@@ -35,7 +35,7 @@ Fujitsu
  MB86118 - 1-chip M-N Converter
 
 Hitachi
- HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
+ HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
  HA19214NT - A/D Converter
  HD49407 - Waveform equalization TRF
  HD49417 - "Output Processor" for Sound
@@ -45,6 +45,10 @@ Hitachi
 JVC (Nihon Victor - 日本ビクター)
  JCC5003 - ?? (Victor HV-MC1000 2x)
  JCC5004 - ?? (Victor HV-MC1000)
+ JCC5012 - (IPP02) - ?? (Victor HV-VMD1)
+ JCC5013 - (HNC) - ?? (Victor HV-VMD1)
+ JCC5014 - (HDP) - ?? (Victor HV-VMD1)
+ JCC5017 - ?? (Victor HV-VMD1)
  JCC5032-A - ?? (Mitsubishi MD-CZ11)
  LH50530 - MUSE-NTSC Conversion unit (128 QFP) (Panasonic TU-AHD100/N)
 
@@ -56,7 +60,8 @@ Macronix (MX)
 
 Mitsubishi
  M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
- M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M52055P - 3ch video switch (Panasonic TU-AHD100/N - not on MUSE board)
  M52347FP - Sync. signal processor (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
  M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11)
  M52650FP - 2G LSI - IPU / Analog input processor (Panasonic TU-AHD100/N)
@@ -67,7 +72,7 @@ Mitsubishi
  M52657FP - ?? (Pioneer PDP-502R)
  M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
  M65530FP - ?? (Pioneer PDP-502R)
- M65601FP - ?? (Victor HV-MC1000)
+ M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1)
  M65620FP - 2G LSI - OCP / Output processor (Panasonic TU-AHD100/N)
  M65621FP - 2G LSI - MDP / Motion detector - ?Same as MN82501?
  M65642FP - ?? (Pioneer PDP-502R)
@@ -78,6 +83,7 @@ Mitsubishi
 NEC (Nihon Denki - 日本電気)
  D42102C-3 - ?? (Victor HV-MC1000)
  D42102G-3 - ?? (Mitsubishi MD-CZ11)
+ D42102G-5 - ?? (Victor HV-VMD1)
  D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x)
  D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R)
  D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11)
@@ -99,14 +105,19 @@ NEC (Nihon Denki - 日本電気)
 NEC/VLSI Technology
  VY06434 - 2G LSI - CSP / Color processor (Panasonic TU-AHD100/N)
 
-NPC
+NPC (Nippon Precision Circuits)
  SM5840CP - Digital Oversampling Filter (Audio) (Victor HV-MC1000 2x)
+ SM5870CS - Digital Audio D/A Converter (Victor HV-VMD1)
 
 OKI
+ M514212-2B - ?mem? (Victor HV-VMD1)
+ M518222-25Z - ?mem? (Victor HV-VMD1 4x)
+ M7U016-009 - ?? (Victor HV-VMD1)
  M72H045 - ?? (Victor HV-MC1000)
 
 Panasonic (Matsushita - 松下)
  AN3917S - ?16-pin clock gen? (Pioneer PDP-502R)
+ AN5303K - NTSC signal processor (Panasonic TU-AHD100/N - not on MUSE board)
  AN8130FBP/AN8130K - A/D Converter, 10-bit res., 20 MSPS, 5V/-5V, 750mW cons., 42pin or 64pin pkg (Panasonic TU-AHD100/N)
  AN8131FBP - 10-bit res., 20 MSPS, 5V, 300mW cons., 48pin pkg
  AN8140K/AN8140S - D/A Converter, 10-bit resolution, 50 MSPS, 5V, 150mW cons., TTL
@@ -173,6 +184,7 @@ Sony
  CXA1603 - S/H
  CXA1604 - 10-bit 32M A/D Converter
  CXA1605AQ - "Analog Input Processor" (Sony MSC-4000)
+ CXA1478S - ?Component to RGBHV? (Panasonic TU-AHD100/N - not on MUSE board)
  CXA1732M - ?? (Sony MSC-4000 board A)
  CXA1834Q - ?? (Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
@@ -205,6 +217,7 @@ Toshiba (東芝)
  TA8897F - Gamma corrector (for NTSC after M-N?)
  TC160G16AF0104 - Clock gen / Clock drive (for TC9071F?)
  TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-502R 2x)
+ TC55257BFL-85L - 256kbit SRAM (Victor HV-VMD1)
  TC9043N - Non-linear processor
  TC9044N - Motion detection 1
  TC9045N - Motion detection 2
@@ -213,7 +226,7 @@ Toshiba (東芝)
  TC9047N-002 - Symmetric Filter (2D Filter - Center)
  TC9047N-003 - Symmetric Filter (2D Filter - Internal/Inside)
  TC9047N-004 - Symmetric Filter (2D Filter - External/Outside)
- TC9056F - 2G LSI - MUSE-Audio Processor - 100 pin QFP
+ TC9056F - 2G LSI - MUSE-Audio Processor - 100 pin QFP (Victor HV-VMD1)
  TC9071F - 2G LSI - TIM - Sync. Regen. Equalizer (Timing, Clock/sync regen, clamp + video level control, 32-tap adaptive EQ) - 144 pin QFP
  TC9072G - 2G LSI - MPP - Motion Picture Processing (De-emphasis filt, 2D filt, frame interpolator, custom RAM for line-delay) - 144 pin QFP
  TC9073F - 2G LSI - MOD - Motion Detection (4-bit motion detection for luma+chroma, line-delay RAM) - 144 pin QFP
