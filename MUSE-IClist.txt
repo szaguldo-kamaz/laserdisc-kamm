@@ -40,7 +40,7 @@ Hitachi
  HD49407 - Waveform equalization TRF
  HD49417 - "Output Processor" for Sound
  HD74AC244P - Octal buffer and line driver for mem address (Victor HV-MC1000)
- H8/532 - HD6475328F10 - MCU (Panasonic TU-AHD100/N - TVRAJ039A label)
+ H8/532 - HD6475328F10/HD6435328F - MCU (Panasonic TU-AHD100/N - TVRAJ039A label/no label)
 
 JVC (Nihon Victor - 日本ビクター)
  JCC5003 - ?? (Victor HV-MC1000 2x)
@@ -158,7 +158,7 @@ Sanyo
  LC3664RML - 8Kbyte SRAM (Victor HV-MC1000 4x)
  LC7492E - 2G LSI - MUSE Processor (in M-N converter)
  LC7493F - 2G LSI - NTSC Processor (in M-N converter)
- LC78835KM - 18-bit digital filter and D/A for Audio (Mitsubishi MD-CZ11 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
+ LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
  LCL6301F - 2G LSI - Equalizer
  LCL6302F - 2G LSI - Data detector
  LCL6303F - 2G LSI - Video processor
@@ -179,7 +179,7 @@ Sharp
 Sony
  A1833Q - ?? (Sony MSC-4000)
  CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
- CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N, Pioneer PDP-502R)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R)
  CXA1451M - Wideband Video Switch (Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
  CXA1603 - S/H
  CXA1604 - 10-bit 32M A/D Converter
@@ -255,3 +255,4 @@ Others
  SC371036FU - 2G LSI - CSP - Color Signal Processing (MUSE color signal proc, 11:12 time expansion, 44.55MHz clk gen) - 160 pin QFP
  TA8811N - 2G LSI - Matrix CRT-Gamma - 54 pin SDIP
  ZA4041 - 4Mb VRAM
+ Mystery IC (DIP32) under the heatsink in Panasonic TU-AHD100/N
