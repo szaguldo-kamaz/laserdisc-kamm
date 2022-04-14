@@ -1,0 +1,36 @@
+MUSE decoding related IC list
+---------------------------------------------------
+Compiled by David Vincze (kamm at laserdisc dot hu)
+https://github.com/szaguldo-kamaz/laserdisc-iclist/
+---------------------------------------------------
+
+ AK4311VM - 16-bit Sigma-Delta Stereo DAC Audio (Pioneer PDP-502R 2x)
+ M52347FP - Sync. signal processor (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
+ M52654FP - ?? (Pioneer PDP-502R)
+ M52655FP - ?? (Pioneer PDP-502R)
+ M52657FP - ?? (Pioneer PDP-502R)
+ M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
+ M65530FP - ?? (Pioneer PDP-502R)
+ M65642FP - ?? (Pioneer PDP-502R)
+ M65648FP - ?? (Pioneer PDP-502R)
+ M65649FP - ?? (Pioneer PDP-502R)
+ D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R)
+ AN3917S - ?16-pin clock gen? (Pioneer PDP-502R)
+ MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R)
+ MN1020003 - ?MCU? (Pioneer PDP-502R)
+ MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
+ MN82511 - ?? (Pioneer PDP-502R)
+ MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
+ PD5527A9 - ?? (Pioneer PDP-502R - not on MUSE-board, on MUSE-riser-board)
+ PD5533E9/PD5533F - ?? (Pioneer PDP-502R - not on MUSE-board, probably main CPU)
+ LH5317YN - ?? (Pioneer PDP-502R)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R)
+ CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
+ 8AC524K - ?? (Pioneer PDP-502R)
+ D77538PGE - ?? (Pioneer PDP-502R)
+ Y2932 - ?? (Pioneer PDP-502R)
+ TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-502R 2x)
+ 74AC00 - Quad NAND gate (Pioneer PDP-502R)
+ 74HC4066A - Quad analog switch  (Pioneer PDP-502R)
+ 74HC74A - Dual D Flip-Flop (Pioneer PDP-502R)
+ F432116PH - ?? (Pioneer PDP-502R)

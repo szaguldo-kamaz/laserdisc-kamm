@@ -1,0 +1,15 @@
+MUSE decoding related IC list
+---------------------------------------------------
+Compiled by David Vincze (kamm at laserdisc dot hu)
+https://github.com/szaguldo-kamaz/laserdisc-iclist/
+---------------------------------------------------
+
+ MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
+ JCC5032-A - ?? (Mitsubishi MD-CZ11)
+ M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11)
+ D42102G-3 - ?? (Mitsubishi MD-CZ11)
+ D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11)
+ MN47V77S - 256kb FIFO Field Memory (Mitsubishi MD-CZ11 6x)
+ MN5350 - ?? (Mitsubishi MD-CZ11)
+ MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
+ LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
