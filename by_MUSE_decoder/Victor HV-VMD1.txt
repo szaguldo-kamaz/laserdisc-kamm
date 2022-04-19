@@ -11,7 +11,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  JCC5012 - (IPP02) - ?? (Victor HV-VMD1)
  JCC5013 - (HNC) - ?? (Victor HV-VMD1)
  JCC5014 - (HDP) - ?? (Victor HV-VMD1)
- JCC5017 - ?? (Victor HV-VMD1)
+ JCC5017 - ?M-N converter? (Victor HV-VMD1)
  M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1)
  D42102G-5 - ?? (Victor HV-VMD1)

@@ -1,6 +1,10 @@
 # laserdisc-iclist
 List of ICs found in LaserDisc players and related hardware (e.g. MUSE decoders)
 
+The lists were compiled by investigating the actual devices and by digging through countless pages of scientific publications and technical papers.
+If you happen have some more info or own devices not listed here (or marked with "partial"), and willing to open it up and look inside... :-), please feel free to send updates/lists/photos of device mainboards where IC markings can be identified.
+Either by email to kamm at laserdisc.hu or just create a pull request here. Thank you!_
+
 **MUSE decoders** and **MUSE-NTSC converters**
 
 * Hitachi HD-M20 (partial, based on some photos only)
@@ -14,6 +18,3 @@ List of ICs found in LaserDisc players and related hardware (e.g. MUSE decoders)
 * Victor HV-VMD1
 
 Some LD players to come sometime soon...
-
-_If you happen to own devices not listed here (or marked with "partial"), and willing to look inside... :-), please feel free to send updates/lists/photos of device mainboards where IC markings can be identified.
-Either by email to kamm at laserdisc.hu or just create a pull request. Thank you!_

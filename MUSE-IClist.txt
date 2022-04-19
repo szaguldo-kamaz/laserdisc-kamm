@@ -48,7 +48,7 @@ JVC (Nihon Victor - 日本ビクター)
  JCC5012 - (IPP02) - ?? (Victor HV-VMD1)
  JCC5013 - (HNC) - ?? (Victor HV-VMD1)
  JCC5014 - (HDP) - ?? (Victor HV-VMD1)
- JCC5017 - ?? (Victor HV-VMD1)
+ JCC5017 - ?M-N converter? (Victor HV-VMD1)
  JCC5032-A - ?? (Mitsubishi MD-CZ11)
  LH50530 - MUSE-NTSC Conversion unit (128 QFP) (Panasonic TU-AHD100/N)
 
