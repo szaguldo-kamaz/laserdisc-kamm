@@ -20,7 +20,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  MN1020003 - ?MCU? (Pioneer PDP-502R)
  MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
  MN82511 - ?? (Pioneer PDP-502R)
- MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
+ MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11, Victor HV-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
  PD5527A9 - ?? (Pioneer PDP-502R - not on MUSE-board, on MUSE-riser-board)
  PD5533E9/PD5533F - ?? (Pioneer PDP-502R - not on MUSE-board, probably main CPU)
  LH5317YN - ?? (Pioneer PDP-502R)

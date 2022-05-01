@@ -16,5 +16,6 @@ Either by email to kamm at laserdisc.hu or just create a pull request here. Than
 * Sony SAU-500MN
 * Victor HV-MC1000
 * Victor HV-VMD1
+* Victor HV-MD2 (thanks to Alex Pustan / [pustan.com](https://pustan.com) for the detailed photos!)
 
 Some LD players to come sometime soon...

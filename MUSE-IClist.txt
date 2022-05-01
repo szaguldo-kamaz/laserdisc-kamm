@@ -19,7 +19,7 @@ Cypress Semiconductor:
  CY7C182-35VC - SRAM 72Kb (8K x 9) (Sony MSC-4000)
 
 Fujitsu
- MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11)
+ MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11, Victor HV-MD2)
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
@@ -49,7 +49,7 @@ JVC (Nihon Victor - 日本ビクター)
  JCC5013 - (HNC) - ?? (Victor HV-VMD1)
  JCC5014 - (HDP) - ?? (Victor HV-VMD1)
  JCC5017 - ?M-N converter? (Victor HV-VMD1)
- JCC5032-A - ?? (Mitsubishi MD-CZ11)
+ JCC5032-A - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  LH50530 - MUSE-NTSC Conversion unit (128 QFP) (Panasonic TU-AHD100/N)
 
 JVC/OKI
@@ -63,7 +63,7 @@ Mitsubishi
  M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M52055P - 3ch video switch (Panasonic TU-AHD100/N - not on MUSE board)
  M52347FP - Sync. signal processor (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
- M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11)
+ M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11, Victor HV-MD2)
  M52650FP - 2G LSI - IPU / Analog input processor (Panasonic TU-AHD100/N)
  M52651SP - 2G LSI - OPU / Analog output processor (Panasonic TU-AHD100/N)
  M52652SP - 2G LSI - CKU / Clock generator
@@ -82,11 +82,11 @@ Mitsubishi
 
 NEC (Nihon Denki - 日本電気)
  D42102C-3 - ?? (Victor HV-MC1000)
- D42102G-3 - ?? (Mitsubishi MD-CZ11)
+ D42102G-3 - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  D42102G-5 - ?? (Victor HV-VMD1)
  D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x)
  D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R)
- D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11)
+ D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11, Victor HV-MD2)
  D42102G-X - 1-H Line Delay
  D42291R - Image memory
  D42291GJ - 2M Field memory (Panasonic TU-AHD100/N)
@@ -129,9 +129,9 @@ Panasonic (Matsushita - 松下)
  MN18888TNG - 2G LSI - ?STG / Synchronization? (Panasonic TU-AHD100/N)
  MN47C401FS - 4M Field Memory (Panasonic TU-AHD100/N 3x)
  MN4760S - ?mem? (Panasonic TU-AHD100/N 3x)
- MN47V77S - 256kb FIFO Field Memory (Mitsubishi MD-CZ11 6x)
+ MN47V77S - 256kb FIFO Field Memory (Mitsubishi MD-CZ11 6x, Victor HV-MD2 6x)
  MN53060TUG - Control Timing Signal Generator (TSG)
- MN5350 - ?? (Mitsubishi MD-CZ11)
+ MN5350 - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  MN6570TF - 3ch D/A Converter, 8-bit resolution, 40 MSPS (Panasonic TU-AHD100/N 2x) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
  MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
  MN73018TUR - ?? (Victor HV-MC1000)
@@ -142,7 +142,7 @@ Panasonic (Matsushita - 松下)
  MN8231A - ?? (Panasonic TU-AHD100/N)
  MN82501 - 2G LSI - MDP / Motion detector - ?Same as M65621FP? (Panasonic TU-AHD100/N)
  MN82511 - ?? (Pioneer PDP-502R)
- MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
+ MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11, Victor HV-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
 
 Panasonic (Matsushita)/LSI Logic
  L7A0956 HDSC2 - ?? (Panasonic TU-AHD100/N)
@@ -158,7 +158,7 @@ Sanyo
  LC3664RML - 8Kbyte SRAM (Victor HV-MC1000 4x)
  LC7492E - 2G LSI - MUSE Processor (in M-N converter)
  LC7493F - 2G LSI - NTSC Processor (in M-N converter)
- LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
+ LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
  LCL6301F - 2G LSI - Equalizer
  LCL6302F - 2G LSI - Data detector
  LCL6303F - 2G LSI - Video processor
