@@ -1,0 +1,21 @@
+MUSE decoding related IC list
+---------------------------------------------------
+Compiled by David Vincze (kamm at laserdisc dot hu)
+https://github.com/szaguldo-kamaz/laserdisc-iclist/
+---------------------------------------------------
+
+ M52651SP - 2G LSI - OPU / Analog output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ M52652SP - 2G LSI - CKU / Clock generator (NEC HV-MD5000T)
+ M65620FP - 2G LSI - OCP / Output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ D6476GD - 2G LSI - YSP / Luminance signal processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ D6477GD - 2G LSI - YOP / Luminance output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ VY06434 - 2G LSI - CSP / Color processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ AN8130FBP/AN8130K - A/D Converter, 10-bit res., 20 MSPS, 5V/-5V, 750mW cons., 42pin or 64pin pkg (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ AN8145FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ MN18888TNG - 2G LSI - ?STG / Synchronization? (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ MN76022TVF - 2G LSI - STG / Synchronization (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ MN82501 - 2G LSI - MDP / Motion detector - ?Same as M65621FP? (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ L7A1133 - 2G LSI - MAP / MUSE Audio Processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ LH50530 - 2G LSI - HD-NTSC Converter (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
+ TC110G17AF - Gate Array (NEC HV-MD5000T)

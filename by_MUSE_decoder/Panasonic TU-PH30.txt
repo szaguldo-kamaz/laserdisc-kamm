@@ -4,7 +4,6 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- AK4311VM - 16-bit Sigma-Delta Stereo DAC Audio (Pioneer PDP-502R 2x)
  M52347FP - Sync. signal processor (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
  M52654FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52655FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
@@ -21,11 +20,8 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R, Panasonic TU-PH30) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
  MN82511 - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
  MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100, Mitsubishi MD-CZ11, Victor HV-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
- PD5527A9 - ?? (Pioneer PDP-502R - not on MUSE-board, on MUSE-riser-board)
- PD5533E9/PD5533F - ?? (Pioneer PDP-502R - not on MUSE-board, probably main CPU)
  LH5317YN - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100?)
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
- CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
  8AC524K - ?? (Pioneer PDP-502R, Panasonic TU-PH30?, Panasonic TU-MDC100?)
  D77538PGE - ?? (Pioneer PDP-502R, Panasonic TU-PH30?, Panasonic TU-MDC100?)
  Y2932 - ?? (Pioneer PDP-502R, Panasonic TU-PH30?, Panasonic TU-MDC100?)
