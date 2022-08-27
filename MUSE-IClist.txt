@@ -62,22 +62,22 @@ Mitsubishi
  M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
  M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M52055P - 3ch video switch (Panasonic TU-AHD100/N - not on MUSE board)
- M52347FP - Sync. signal processor (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
+ M52347FP - Sync. signal processor (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
  M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11, Victor HV-MD2)
  M52650FP - 2G LSI - IPU / Analog input processor (Panasonic TU-AHD100/N)
  M52651SP - 2G LSI - OPU / Analog output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  M52652SP - 2G LSI - CKU / Clock generator (NEC HV-MD5000T)
- M52654FP - ?? (Pioneer PDP-502R)
- M52655FP - ?? (Pioneer PDP-502R)
- M52657FP - ?? (Pioneer PDP-502R)
- M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-502R) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
- M65530FP - ?? (Pioneer PDP-502R)
+ M52654FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M52655FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M52657FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-502R, Panasonic TU-PH30) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
+ M65530FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
  M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1)
  M65620FP - 2G LSI - OCP / Output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  M65621FP - 2G LSI - MDP / Motion detector - ?Same as MN82501?
- M65642FP - ?? (Pioneer PDP-502R)
- M65648FP - ?? (Pioneer PDP-502R)
- M65649FP - ?? (Pioneer PDP-502R)
+ M65642FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M65648FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M65649FP - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
  M66006 - 12-bit I/O Expander - Parallel<>Serial (Panasonic TU-AHD100/N)
 
 NEC (Nihon Denki - 日本電気)
@@ -85,7 +85,7 @@ NEC (Nihon Denki - 日本電気)
  D42102G-3 - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  D42102G-5 - ?? (Victor HV-VMD1)
  D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x)
- D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R)
+ D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
  D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11, Victor HV-MD2)
  D42102G-X - 1-H Line Delay
  D42291R - Image memory
@@ -116,15 +116,15 @@ OKI
  M72H045 - ?? (Victor HV-MC1000)
 
 Panasonic (Matsushita - 松下)
- AN3917S - ?16-pin clock gen? (Pioneer PDP-502R)
+ AN3917S - ?16-pin clock gen? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
  AN5303K - NTSC signal processor (Panasonic TU-AHD100/N - not on MUSE board)
  AN8130FBP/AN8130K - A/D Converter, 10-bit res., 20 MSPS, 5V/-5V, 750mW cons., 42pin or 64pin pkg (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  AN8131FBP - 10-bit res., 20 MSPS, 5V, 300mW cons., 48pin pkg
  AN8140K/AN8140S - D/A Converter, 10-bit resolution, 50 MSPS, 5V, 150mW cons., TTL
  AN8145FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  AN8146FBP - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg
- MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R)
- MN1020003 - ?MCU? (Pioneer PDP-502R)
+ MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
+ MN1020003 - ?MCU? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100?)
  MN18888TIG - 2G LSI - STG / Synchronization
  MN18888TNG - 2G LSI - ?STG / Synchronization? (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  MN47C401FS - 4M Field Memory (Panasonic TU-AHD100/N 3x)
@@ -133,7 +133,7 @@ Panasonic (Matsushita - 松下)
  MN53060TUG - Control Timing Signal Generator (TSG)
  MN5350 - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  MN6570TF - 3ch D/A Converter, 8-bit resolution, 40 MSPS (Panasonic TU-AHD100/N 2x) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
- MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
+ MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R, Panasonic TU-PH30) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
  MN73018TUR - ?? (Victor HV-MC1000)
  MN73534TUD - Audio Processor 1 (Victor HV-MC1000)
  MN73534TUF - Control Data Decoder (Maybe MN73535TUF?)
@@ -141,8 +141,8 @@ Panasonic (Matsushita - 松下)
  MN76022TVF - 2G LSI - STG / Synchronization (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  MN8231A - ?? (Panasonic TU-AHD100/N)
  MN82501 - 2G LSI - MDP / Motion detector - ?Same as M65621FP? (Panasonic TU-AHD100/N, NEC HV-MD5000T)
- MN82511 - ?? (Pioneer PDP-502R)
- MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Mitsubishi MD-CZ11, Victor HV-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
+ MN82511 - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100)
+ MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100, Mitsubishi MD-CZ11, Victor HV-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
 
 Panasonic (Matsushita)/LSI Logic
  L7A0956 HDSC2 - ?? (Panasonic TU-AHD100/N)
@@ -174,12 +174,12 @@ Sharp
  LH50524 - 12/11 time interval extender? (12/11時間伸長)
  LH50529 - 2G LSI - Equalizer processor (Panasonic TU-AHD100/N)
  LH50530 - 2G LSI - HD-NTSC Converter (Panasonic TU-AHD100/N, NEC HV-MD5000T)
- LH5317YN - ?? (Pioneer PDP-502R)
+ LH5317YN - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100?)
 
 Sony
  A1833Q - ?? (Sony MSC-4000)
  CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
- CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, NEC HV-MD5000T)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
  CXA1451M - Wideband Video Switch (Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
  CXA1603 - S/H
  CXA1604 - 10-bit 32M A/D Converter
@@ -207,17 +207,17 @@ Sony
  D29170 - ?? (Sony MSC-4000)
 
 Texas Instruments
- 8AC524K - ?? (Pioneer PDP-502R)
- D77538PGE - ?? (Pioneer PDP-502R)
+ 8AC524K - ?? (Pioneer PDP-502R, Panasonic TU-PH30?, Panasonic TU-MDC100?)
+ D77538PGE - ?? (Pioneer PDP-502R, Panasonic TU-PH30?, Panasonic TU-MDC100?)
  TMS57130APPM - ?DSP? (Sony MSC-4000)
  TMS57131PPM - ?DSP? (Sony MSC-4000)
- Y2932 - ?? (Pioneer PDP-502R)
+ Y2932 - ?? (Pioneer PDP-502R, Panasonic TU-PH30?, Panasonic TU-MDC100?)
 
 Toshiba (東芝)
  TA8897F - Gamma corrector (for NTSC after M-N?)
  TC110G17AF - Gate Array (NEC HV-MD5000T)
  TC160G16AF0104 - Clock gen / Clock drive (for TC9071F?)
- TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-502R 2x)
+ TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-502R 2x, Panasonic TU-PH30, Panasonic TU-MDC100?)
  TC55257BFL-85L - 256kbit SRAM (Victor HV-VMD1)
  TC9043N - Non-linear processor
  TC9044N - Motion detection 1
@@ -240,15 +240,15 @@ Victronix
  VN4774S-03 - ?? (Panasonic TU-AHD100/N)
 
 Others
- 74AC00 - Quad NAND gate (Pioneer PDP-502R)
+ 74AC00 - Quad NAND gate (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100?)
  74AC244 - Octal Buffer/Line Drive (Panasonic TU-AHD100/N 2x)
  74AC74 - Dual D Flip-Flop (Panasonic TU-AHD100/N)
- 74HC4066A - Quad analog switch  (Pioneer PDP-502R)
+ 74HC4066A - Quad analog switch  (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100?)
  74HC4316 - Analog switch (Panasonic TU-AHD100/N)
  74HC4538A - Dual prec. monostab. multivib (Sony MSC-4000 board A)
- 74HC74A - Dual D Flip-Flop (Pioneer PDP-502R)
+ 74HC74A - Dual D Flip-Flop (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100?)
  AN6554NS - Op-amp (Panasonic TU-AHD100/N)
- F432116PH - ?? (Pioneer PDP-502R)
+ F432116PH - ?? (Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100?)
  PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
  MC14052B - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 2x board A)
  MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 3x board A)
