@@ -3,14 +3,17 @@ List of ICs found in LaserDisc players and related hardware (e.g. MUSE decoders)
 
 The lists were compiled by investigating the actual devices and by digging through countless pages of scientific publications and technical papers.
 If you happen have some more info or own devices not listed here (or marked with "partial"), and willing to open it up and look inside... :-), please feel free to send updates/lists/photos of device mainboards where IC markings can be identified.
-Either by email to kamm at laserdisc.hu or just create a pull request here. Thank you!_
+Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https://forum.lddb.com/viewtopic.php?f=25&t=10345), or just create a pull request here. Thank you!
 
 **MUSE decoders** and **MUSE-NTSC converters**
 
 * Hitachi HD-M20 (partial, based on some photos only)
 * Mitsubishi MD-CZ11
-* Panasonic TU-AHD100
+* NEC HV-MD5000T (thanks to drewmanfu0, based on some photos only)
+* Panasonic TU-AHD100(N)
 * Pioneer PDP-502R
+* Panasonic TU-PH30 (based on info from drewmanfu0)
+* Panasonic TU-MDC100 (based on info from drewmanfu0)
 * Sony MSC-4000
 * Sony SAU-300MN (partial)
 * Sony SAU-500MN
