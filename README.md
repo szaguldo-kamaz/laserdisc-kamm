@@ -9,11 +9,11 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 
 * Hitachi HD-M20 (partial, based on some photos only)
 * Mitsubishi MD-CZ11
-* NEC HV-MD5000T (thanks to drewmanfu0, based on some photos only)
+* NEC HV-MD5000T (partial, based on some photos only, thanks to drewmanfu0)
 * Panasonic TU-AHD100(N)
 * Pioneer PDP-502R
-* Panasonic TU-PH30 (based on info from drewmanfu0)
-* Panasonic TU-MDC100 (based on info from drewmanfu0)
+* Panasonic TU-PH30 (partial, based on info from drewmanfu0)
+* Panasonic TU-MDC100 (partial, based on info from drewmanfu0)
 * Sony MSC-4000
 * Sony SAU-300MN (partial)
 * Sony SAU-500MN
