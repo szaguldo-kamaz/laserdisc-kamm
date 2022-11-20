@@ -12,6 +12,7 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * NEC HV-MD5000T (partial, based on some photos only, thanks to drewmanfu0)
 * Panasonic TU-AHD100(N)
 * Pioneer PDP-502R
+* Panasonic TU-PH20 (decoder module only, more to come regarding the others)
 * Panasonic TU-PH30 (partial, based on info from drewmanfu0)
 * Panasonic TU-MDC100 (partial, based on info from drewmanfu0)
 * Sony MSC-4000

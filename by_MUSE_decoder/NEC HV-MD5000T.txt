@@ -17,5 +17,5 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  MN82501 - 2G LSI - MDP / Motion detector - ?Same as M65621FP? (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  L7A1133 - 2G LSI - MAP / MUSE Audio Processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  LH50530 - 2G LSI - HD-NTSC Converter (Panasonic TU-AHD100/N, NEC HV-MD5000T)
- CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
  TC110G17AF - Gate Array (NEC HV-MD5000T)

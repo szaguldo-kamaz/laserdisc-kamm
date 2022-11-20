@@ -35,7 +35,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
  LH50529 - 2G LSI - Equalizer processor (Panasonic TU-AHD100/N)
  LH50530 - 2G LSI - HD-NTSC Converter (Panasonic TU-AHD100/N, NEC HV-MD5000T)
- CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
  CXA1478S - ?Component to RGBHV? (Panasonic TU-AHD100/N - not on MUSE board)
  VN4772S-03 - ?? (Panasonic TU-AHD100/N)
  VN4774S-03 - ?? (Panasonic TU-AHD100/N)
