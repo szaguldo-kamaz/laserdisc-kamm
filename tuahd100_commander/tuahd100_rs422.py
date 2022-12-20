@@ -16,6 +16,7 @@ class TUAHD100_RS422:
             'TV'                        : 0x04,
             'Video'                     : 0x05,
             'ScreenSwitch'              : 0x0A,  # 画面切換 (TV/Video)
+            'NR'                        : 0x0C,
             'Position1'                 : 0x0D,
             'Position2'                 : 0x0E,
             'Position3'                 : 0x0F,
