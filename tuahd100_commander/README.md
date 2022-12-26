@@ -2,14 +2,14 @@
 
 # Panasonic TU-AHD100(N) RS422 commander
 
-The Panasonic TU-AHD100(N), a well-known MUSE decoder and HD video processor, has a system control port on its back...  
+The Panasonic TU-AHD100(N), a well-known MUSE decoder and HD video processor, has a system control port (システム コントロール) on its back...  
 Which is actually a RS422 port as stated in its user's manual and can be used to do everything (and a bit more!) as its IR remote can do.
 The necessary details on how to communicate with this device are described on pages 74-75.
 Based on that, i prepared this simple python based tool to interface with the TU-AHD100.
 
 I made a nice fancy GUI version imitating its IR remote control:
 
-![tuahd100_commander_gui](https://user-images.githubusercontent.com/86873213/208728666-3cf47c13-a1a9-466e-81f3-fbcfb32e7cb6.png)
+![tuahd100_commander_gui](https://user-images.githubusercontent.com/86873213/209506527-3961f15b-9997-4c6d-9a84-756336ecae69.png)
 
 Also there's a CLI version, supporting all the commands the TU-AHD100 can understand:
 
