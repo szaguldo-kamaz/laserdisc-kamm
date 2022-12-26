@@ -15,7 +15,7 @@ import time, os, platform
 if platform.system() in [ 'Linux', 'macOS' ]:
     serialdev = '/dev/ttyUSB0';
 elif platform.system() == 'Windows':
-    serialdev = 'COM4';
+    serialdev = 'COM3';
 else:
     print("Unknown platform/OS.");
     exit(1);

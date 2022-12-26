@@ -16,7 +16,7 @@ import PySimpleGUI as sg
 if platform.system() in [ 'Linux', 'macOS' ]:
     serialdev = '/dev/ttyUSB0';
 elif platform.system() == 'Windows':
-    serialdev = 'COM4';
+    serialdev = 'COM3';
 else:
     print("Unknown platform/OS.");
     exit(1);
@@ -132,18 +132,18 @@ buttonslayout = [
                    sg.Button('MUSE1', key="B-MUSE1", font=(buttonfont,8,'bold'), size=(6,1), button_color=('#F0F0F0', '#A0A0A0')),
                    sg.Button('MUSE2', key="B-MUSE2", font=(buttonfont,8,'bold'), size=(6,1), button_color=('#F0F0F0', '#A0A0A0')),
                    sg.Button('MUSE3', key="B-MUSE3", font=(buttonfont,8,'bold'), size=(6,1), button_color=('#F0F0F0', '#A0A0A0')),
-                   sg.Button('AI', key="B-AI", font=(buttonfont,8,'bold'), size=(6,1), button_color=('#F0F0F0', '#A0A0A0')),
+                   sg.Button('MUSE AI', key="B-AI", font=(buttonfont,8,'bold'), size=(6,1), button_color=('#F0F0F0', '#A0A0A0')),
                  ],
 
                  [
-                   sg.Button('VStandard', key="B-VideoStandard", font=(buttonfont,8,'bold'), size=(8,1), button_color=('#F0F0F0', '#A0A0A0')),
-                   sg.Button('VElegant', key="B-VideoElegant", font=(buttonfont,8,'bold'), size=(7,1), button_color=('#F0F0F0', '#A0A0A0')),
+                   sg.Button('Video\nStandard', key="B-VideoStandard", font=(buttonfont,8,'bold'), size=(8,1), button_color=('#F0F0F0', '#A0A0A0')),
+                   sg.Button('Video\nElegant', key="B-VideoElegant", font=(buttonfont,8,'bold'), size=(7,1), button_color=('#F0F0F0', '#A0A0A0')),
                    sg.Button('HDMonitor4CH', key="B-HDMonitor4CH", font=(buttonfont,8,'bold'), size=(14,1), button_color=('#F0F0F0', '#A0A0A0')),
                  ],
 
                  [
-                   sg.Button('VDynamic', key="B-VideoDynamic", font=(buttonfont,8,'bold'), size=(8,1), button_color=('#F0F0F0', '#A0A0A0')),
-                   sg.Button('VChic', key="B-VideoChic", font=(buttonfont,8,'bold'), size=(5,1), button_color=('#F0F0F0', '#A0A0A0')),
+                   sg.Button('Video\nDynamic', key="B-VideoDynamic", font=(buttonfont,8,'bold'), size=(8,1), button_color=('#F0F0F0', '#A0A0A0')),
+                   sg.Button('Video\nChic', key="B-VideoChic", font=(buttonfont,8,'bold'), size=(5,1), button_color=('#F0F0F0', '#A0A0A0')),
                    sg.Button('ProLogic', key="B-ProLogic", font=(buttonfont,8,'bold'), size=(7,1), button_color=('#F0F0F0', '#A0A0A0')),
                    sg.Button('DSP\nOFF', key="B-DSP_OFF_DSP", font=(buttonfont,8,'bold'), size=(4,1), button_color=('#F0F0F0', '#A0A0A0')),
                  ],
