@@ -15,6 +15,5 @@ And a CLI version, supporting all the commands the TU-AHD100(N) can understand:
 
 ![tuahd100_commander_cli](https://user-images.githubusercontent.com/86873213/208728692-02463820-91f1-4ccd-a1f8-347b2282d2e4.png)
 
-You'll need python 3 and `pyserial`, and `pySimpleGUI` for the GUI version.  
-(Just do `pip install PySimpleGUI pyserial`)..
-(And the necessary hardware to connect to its RS422 port from a PC...)
+You'll need python 3 and `pyserial`, and `pySimpleGUI` for the GUI version. (Just do `pip install PySimpleGUI pyserial`)  
+And the necessary hardware to connect to its RS422 port from a PC...
