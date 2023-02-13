@@ -61,6 +61,7 @@ Macronix (MX)
 Mitsubishi
  M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
  M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M52036SP - Sync signal processor (Panasonic TU-AHD100/N - not on MUSE board 2x)
  M52055P - 3ch video switch (Panasonic TU-AHD100/N - not on MUSE board)
  M52347FP - Sync. signal processor (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
  M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11, Victor HV-MD2)
@@ -91,6 +92,7 @@ NEC (Nihon Denki - 日本電気)
  D42291R - Image memory
  D42291GJ - 2M Field memory (Panasonic TU-AHD100/N)
  D60310GF - 2G LSI - MIP / MUSE Input Processor (Panasonic TU-AHD100/N)
+ D6453CY - OSD character generator (Panasonic TU-AHD100/N - not on MUSE board)
  D6470DU - Asymmetrical digital filter (Data rate conversion 32.4M -> 48.6M)
  D6471DU - Chrominance (Color) Processor 1
  D6472DU - Chrominance (Color) Processor 2
@@ -181,10 +183,11 @@ Sony
  CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
  CXA1451M - Wideband Video Switch (Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
+ CXA1478S - ?HV sync generator for RGBHV? (Panasonic TU-AHD100/N - not on MUSE board)
+ CXA1582P - ??? (Panasonic TU-AHD100/N - not on MUSE board)
  CXA1603 - S/H
  CXA1604 - 10-bit 32M A/D Converter
  CXA1605AQ - "Analog Input Processor" (Sony MSC-4000)
- CXA1478S - ?Component to RGBHV? (Panasonic TU-AHD100/N - not on MUSE board)
  CXA1732M - ?? (Sony MSC-4000 board A)
  CXA1834Q - ?? (Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
@@ -211,6 +214,7 @@ Texas Instruments
  TMS57130APPM - ?DSP? (Sony MSC-4000)
  TMS57131PPM - ?DSP? (Sony MSC-4000)
  Y2932 FOXT - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ SN103832PG (same as AN5858NK?) - AV Switch (Panasonic TU-AHD100/N - not on MUSE board 2x)
 
 Toshiba (東芝)
  TA8897F - Gamma corrector (for NTSC after M-N?)
@@ -249,8 +253,10 @@ Others
  AN6554NS - Op-amp (Panasonic TU-AHD100/N)
  F432116PH - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
- MC14052B - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 2x board A)
+ MC14052B/BCP - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 2x board A, Panasonic TU-AHD100/N - not on MUSE board)
  MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 3x board A)
+ MC14066B - Quad Analog Switch/Quad Multiplexer (Panasonic TU-AHD100/N - not on MUSE board)
+ MC1496P - Balanced Modulators/Demodulators (Panasonic TU-AHD100/N - not on MUSE board)
  SC371035FU - 2G LSI - SPP - Still Picture Processing (Sample rate conversion filt., mixer, field interpolation) - 120 pin QFP
  SC371036FU - 2G LSI - CSP - Color Signal Processing (MUSE color signal proc, 11:12 time expansion, 44.55MHz clk gen) - 160 pin QFP
  TA8811N - 2G LSI - Matrix CRT-Gamma - 54 pin SDIP
