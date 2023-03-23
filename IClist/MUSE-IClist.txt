@@ -41,6 +41,7 @@ Hitachi
  HD49417 - "Output Processor" for Sound
  HD74AC244P - Octal buffer and line driver for mem address (Victor HV-MC1000)
  H8/532 - HD6475328F10/HD6435328F - MCU (Panasonic TU-AHD100/N - TVRAJ039A label/no label)
+ H8/536 - HD6475368CP10 - MCU (Panasonic TU-AHD100/N main CPU - TVRAJ050 label - not on MUSE board)
 
 JVC (Nihon Victor - 日本ビクター)
  JCC5003 - ?? (Victor HV-MC1000 2x)
