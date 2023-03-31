@@ -21,6 +21,6 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  SM5840CP - Digital Oversampling Filter (Audio) (Victor HV-MC1000 2x)
  M72H045 - ?? (Victor HV-MC1000)
  MN73018TUR - ?? (Victor HV-MC1000)
- MN73534TUD - 1G LSI - Audio Processor 1 (Victor HV-MC1000, ?Sony MST-1000?)
+ MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?)
  LC3664RML - 8Kbyte SRAM (Victor HV-MC1000 4x)
  TC9231N - Digital Audio Modulator (Victor HV-MC1000 2x)
