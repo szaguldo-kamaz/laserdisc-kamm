@@ -19,7 +19,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  CXD2305Q - 3ch 10-bit, ?45?50? MSPS DAC (Sony MSC-3000, Sony MSC-4000, Hitachi HD-M20)
  CXP80624A - 8-bit MCU with 24Kbyte ROM (Sony MSC-3000, Sony MSC-4000)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
- ??CXP86116B - 8-bit MCU with 16Kbyte ROM / 576 byte RAM (Sony MSC-4000 board A)
+ CXP85116B - 8-bit MCU with 16Kbyte ROM / 352 byte RAM (Sony MSC-3000 board A, Sony MSC-4000 board A)
  D29170 - ?? (Sony MSC-4000)
  TMS57130APPM - ?DSP? (Sony MSC-4000)
  TMS57131PPM - ?DSP? (Sony MSC-4000)

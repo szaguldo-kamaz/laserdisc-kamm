@@ -22,7 +22,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  CXD2305Q - 3ch 10-bit, ?45?50? MSPS DAC (Sony MSC-3000, Sony MSC-4000, Hitachi HD-M20)
  CXP80424 - 8-bit MCU? (Sony MSC-3000)
  CXP80624A - 8-bit MCU with 24Kbyte ROM (Sony MSC-3000, Sony MSC-4000)
- CXP85116B - 8-bit MCU with 16Kbyte ROM / 576 byte RAM (Sony MSC-3000 board A)
+ CXP85116B - 8-bit MCU with 16Kbyte ROM / 352 byte RAM (Sony MSC-3000 board A, Sony MSC-4000 board A)
  ZA4041/HBJ414007 - ??? (Sony MSC-3000 3x)
  74HC4538A - Dual prec. monostab. multivib (Sony MSC-3000 board A, Sony MSC-4000 board A)
  PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x, Sony MSC-3000)
