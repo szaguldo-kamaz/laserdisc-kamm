@@ -16,6 +16,7 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Panasonic TU-PH30 (partial, based on info from drewmanfu0)
 * Panasonic TU-MDC100 (partial, based on info from drewmanfu0)
 * Sony MST-1000 (partial, based on a photo and some other docs)
+* Sony MSC-3000
 * Sony MSC-4000
 * Sony SAU-300MN (partial)
 * Sony SAU-500MN

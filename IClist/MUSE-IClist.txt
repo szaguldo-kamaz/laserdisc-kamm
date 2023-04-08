@@ -9,7 +9,7 @@ AKM (Asahi Kasei Microdevices)
  AK4319VM - 18-bit Stereo DAC Audio (Sony MSC-4000 5x)
 
 Burr-Brown
- PCM67P - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x)
+ PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, Sony MSC-3000 6x)
  PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN, Hitachi HD-M20 x5)
 
 CSI
@@ -23,13 +23,14 @@ Fujitsu
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
- MB81C79A - 72Kbyte (8K x 9) SRAM (Sony SAU-500MN)
- MB86110 - 2G LSI - "Input Processor"
+ MB81C79A - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-500MN)
+ MB86110 - 2G LSI - "Input Processor" (Sony MSC-3000)
  MB86111 - 2G LSI - "Video Processor"
- MB86112 - 2G LSI - "Motion Detector"
+ MB86111A - 2G LSI - "Video Processor" (Sony MSC-3000)
+ MB86112 - 2G LSI - "Motion Detector" (Sony MSC-3000)
  MB86113 - 2G LSI - "Time Base" (?Hitachi HD-M20?)
  MB86114 - 2G LSI - "Output Processor"
- MB86115 - 2G LSI - "MUSE Sound Processor" (Hitachi HD-M20)
+ MB86115 - 2G LSI - "MUSE Sound Processor" (Hitachi HD-M20, Sony MSC-3000)
  MB86115A - 2G LSI - "MUSE Sound Processor" (Sony SAU-500MN, Sony MSC-4000)
  MB86116 - ?? (Hitachi HD-M20)
  MB86118 - 1-chip M-N Converter
@@ -38,7 +39,7 @@ Hitachi
  HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
  HA19214NT - 1G LSI - A/D Converter (?Sony MST-1000?)
  HD49407 - 1G LSI - Waveform equalization TRF (?Sony MST-1000?)
- HD49417 - "Output Processor" for Sound
+ HD49417/FS - "Output Processor" for Sound (Sony MSC-3000)
  HD74AC244P - Octal buffer and line driver for mem address (Victor HV-MC1000)
  H8/532 - HD6475328F10/HD6435328F - MCU (Panasonic TU-AHD100/N - TVRAJ039A label/no label)
  H8/536 - HD6475368CP10 - MCU (Panasonic TU-AHD100/N main CPU - TVRAJ050 label - not on MUSE board)
@@ -179,33 +180,35 @@ Sharp
  LH5317YN - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100?)
 
 Sony
- A1833Q - ?? (Sony MSC-4000)
+ A1833Q - ?? (Sony MSC-3000, Sony MSC-4000)
  CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
- CXA1451M - Wideband Video Switch (Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
+ CXA1451M - Wideband Video Switch (Sony MSC-3000 3x for Y/Pb/Pr monitor/video, Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
  CXA1478S - ?HV sync generator for RGBHV? (Panasonic TU-AHD100/N - not on MUSE board)
  CXA1582P - ??? (Panasonic TU-AHD100/N - not on MUSE board)
  CXA1603 - S/H
  CXA1604 - 10-bit 32M A/D Converter
- CXA1605AQ - "Analog Input Processor" (Sony MSC-4000)
- CXA1732M - ?? (Sony MSC-4000 board A)
- CXA1834Q - ?? (Sony MSC-4000)
+ CXA1605AQ - "Analog Input Processor" (Sony MSC-3000, Sony MSC-4000)
+ CXA1732M - ?? (Sony MSC-3000 board A, Sony MSC-4000 board A)
+ CXA1834Q - ?? (Sony MSC-3000, Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
  CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD1214G - 1G LSI - Inverse Matrix (?Sony MST-1000?)
  CXD1215G - 1G LSI - Gamma corrector (?Sony MST-1000 3x?)
  CXD2015Q - 2G LSI - "Equalizer" (Hitachi HD-M20)
- CXD2015AQ - 2G LSI - "Equalizer" (Sony MSC-4000)
+ CXD2015AQ - 2G LSI - "Equalizer" (Sony MSC-3000, Sony MSC-4000)
  CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder / MUSE Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD2021Q - MUSE-NTSC Signal Conversion Decoder / NTSC Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
- CXD2037Q - ?? (Sony MSC-4000)
- CXD2038Q - ?? (Sony MSC-4000)
+ CXD2037Q - ?? (Sony MSC-3000, Sony MSC-4000)
+ CXD2038Q - ?? (Sony MSC-3000, Sony MSC-4000)
  CXD2067 - HDTV-NTSC Converter
- CXD2305Q - 3ch 10-bit, ?45?50? MSPS DAC (Sony MSC-4000, Hitachi HD-M20)
+ CXD2305Q - 3ch 10-bit, ?45?50? MSPS DAC (Sony MSC-3000, Sony MSC-4000, Hitachi HD-M20)
  CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x, ?Sony SAU-300MN - 3x?)
- CXP80624A - 8-bit MCU with 24Kbyte ROM (Sony MSC-4000)
+ CXP80424 - 8-bit MCU? (Sony MSC-3000)
+ CXP80624A - 8-bit MCU with 24Kbyte ROM (Sony MSC-3000, Sony MSC-4000)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
- CXP86116B - 8-bit MCU with 16Kbyte ROM / 576 byte RAM (Sony MSC-4000 board A)
+ CXP85116B - 8-bit MCU with 16Kbyte ROM / 576 byte RAM (Sony MSC-3000 board A)
+ ??CXP86116B - 8-bit MCU with 16Kbyte ROM / 576 byte RAM (Sony MSC-4000 board A)
  CXP5068H-230Q - ?4-bit? MCU (Sony SAU-500MN)
  D29170 - ?? (Sony MSC-4000)
 
@@ -215,6 +218,7 @@ Texas Instruments
  TMS57131PPM - ?DSP? (Sony MSC-4000)
  Y2932 FOXT - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  SN103832PG (same as AN5858NK?) - AV Switch (Panasonic TU-AHD100/N - not on MUSE board 2x)
+ ZA4041/HBJ414007 - ??? (Sony MSC-3000 3x)
 
 Toshiba (東芝)
  TA8897F - Gamma corrector (for NTSC after M-N?)
@@ -248,13 +252,13 @@ Others
  74AC74 - Dual D Flip-Flop (Panasonic TU-AHD100/N)
  74HC4066A - Quad analog switch  (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  74HC4316 - Analog switch (Panasonic TU-AHD100/N)
- 74HC4538A - Dual prec. monostab. multivib (Sony MSC-4000 board A)
+ 74HC4538A - Dual prec. monostab. multivib (Sony MSC-3000 board A, Sony MSC-4000 board A)
  74HC74A - Dual D Flip-Flop (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  AN6554NS - Op-amp (Panasonic TU-AHD100/N)
  F432116PH - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
- PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
- MC14052B/BCP - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 2x board A, Panasonic TU-AHD100/N - not on MUSE board)
- MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 3x board A)
+ PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x, Sony MSC-3000)
+ MC14052B/BCP - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-3000 2x board A, Sony MSC-4000 2x board A, Panasonic TU-AHD100/N - not on MUSE board)
+ MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-3000 3x board A, Sony MSC-4000 3x board A)
  MC14066B - Quad Analog Switch/Quad Multiplexer (Panasonic TU-AHD100/N - not on MUSE board)
  MC1496P - Balanced Modulators/Demodulators (Panasonic TU-AHD100/N - not on MUSE board)
  SC371035FU - 2G LSI - SPP - Still Picture Processing (Sample rate conversion filt., mixer, field interpolation) - 120 pin QFP
@@ -262,3 +266,4 @@ Others
  TA8811N - 2G LSI - Matrix CRT-Gamma - 54 pin SDIP
  ZA4041 - 4Mb VRAM
  Mystery IC (DIP32) under the heatsink in Panasonic TU-AHD100/N
+ BA14741F - Op-amp (Sony MSC-3000 6x)

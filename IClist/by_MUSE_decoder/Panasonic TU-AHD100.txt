@@ -47,7 +47,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  74AC74 - Dual D Flip-Flop (Panasonic TU-AHD100/N)
  74HC4316 - Analog switch (Panasonic TU-AHD100/N)
  AN6554NS - Op-amp (Panasonic TU-AHD100/N)
- MC14052B/BCP - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-4000 2x board A, Panasonic TU-AHD100/N - not on MUSE board)
+ MC14052B/BCP - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-3000 2x board A, Sony MSC-4000 2x board A, Panasonic TU-AHD100/N - not on MUSE board)
  MC14066B - Quad Analog Switch/Quad Multiplexer (Panasonic TU-AHD100/N - not on MUSE board)
  MC1496P - Balanced Modulators/Demodulators (Panasonic TU-AHD100/N - not on MUSE board)
  Mystery IC (DIP32) under the heatsink in Panasonic TU-AHD100/N

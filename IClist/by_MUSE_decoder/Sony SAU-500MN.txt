@@ -5,11 +5,11 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
  PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN, Hitachi HD-M20 x5)
- MB81C79A - 72Kbyte (8K x 9) SRAM (Sony SAU-500MN)
+ MB81C79A - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-500MN)
  MB86115A - 2G LSI - "MUSE Sound Processor" (Sony SAU-500MN, Sony MSC-4000)
  CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder / MUSE Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD2021Q - MUSE-NTSC Signal Conversion Decoder / NTSC Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x, ?Sony SAU-300MN - 3x?)
  CXP5068H-230Q - ?4-bit? MCU (Sony SAU-500MN)
- PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x)
+ PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x, Sony MSC-3000)

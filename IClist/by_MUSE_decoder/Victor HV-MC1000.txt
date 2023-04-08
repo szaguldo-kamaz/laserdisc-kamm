@@ -4,7 +4,7 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- PCM67P - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x)
+ PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, Sony MSC-3000 6x)
  CAT514221A-3 - ?mem? (Victor HV-MC1000 11x, Victor HV-VMD1 2x)
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
