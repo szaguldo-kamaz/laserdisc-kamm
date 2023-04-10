@@ -12,4 +12,4 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  CXD2021Q - MUSE-NTSC Signal Conversion Decoder / NTSC Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x, ?Sony SAU-300MN - 3x?)
  CXP5068H-230Q - ?4-bit? MCU (Sony SAU-500MN)
- PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x, Sony MSC-3000)
+ PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x, ?Sony MST-2000?, Sony MSC-3000)
