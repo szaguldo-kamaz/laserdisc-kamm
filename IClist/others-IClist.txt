@@ -1,0 +1,18 @@
+Yamaha
+ YM3623B - Digital Audio Interface Receiver - DIR (Pioneer LG-1)
+
+Pioneer
+ PD0093A - ?? - (Pioneer LG-1)
+ PD0099A - ?? - (Pioneer LG-1)
+ PD3229B - ?? - (Pioneer LG-1)
+ PD4431A - ?? - (Pioneer LG-1)
+
+Motorola
+ 2x MC14577BP - Video amp - (Pioneer LG-1)
+
+MOSEL
+ MS51464-12NC - 256k NMOS DRAM - (Pioneer LG-1)
+
+JRC (Japan Radio Corporation)
+ NJM2244D - 3 input video switch and 75 ohm driver - (Pioneer LG-1)
+ NJM2246D - 3 input video switch and amp - (Pioneer LG-1)

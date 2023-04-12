@@ -1,5 +1,5 @@
 # laserdisc-kamm - IC list
-List of ICs found in LaserDisc players and related hardware (e.g. MUSE decoders)
+List of ICs found in LaserDisc players and related hardware (e.g. MUSE decoders, LD-G decoder)
 
 The lists were compiled by investigating the actual devices and by digging through countless pages of scientific publications and technical papers.
 If you happen have some more info or own devices not listed here (or marked with "partial"), and willing to open it up and look inside... :-), please feel free to send updates/lists/photos of device mainboards where IC markings can be identified.
@@ -24,5 +24,9 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Victor HV-MC1000
 * Victor HV-VMD1
 * Victor HV-MD2 (thanks to Alex Pustan / [pustan.com](https://pustan.com) for the detailed photos!)
+
+**Others**
+
+* Pioneer LG-1 (LD-G decoder)
 
 Some LD players to come sometime soon...
