@@ -87,7 +87,7 @@ NEC (Nihon Denki - 日本電気)
  D42102G-3 - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  D42102G-5 - ?? (Victor HV-VMD1)
  D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x)
- D4811650GF - 16Mbit Sync. Graphics RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ D4811650GF - 16Mbit Sync. Graphics RAM / Some have the Samsung RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  D485505G-25 - FIFO line buffer 5k word (Mitsubishi MD-CZ11, Victor HV-MD2)
  D42102G-X - 1-H Line Delay (?Sony MST-1000 3x?)
  D42291R - Image memory (Sony MST-1000 ?9x?)
@@ -155,6 +155,9 @@ Panasonic (Matsushita)/LSI Logic
 Pioneer
  PD5527A9 - ?? (Pioneer PDP-502R - not on MUSE-board, on MUSE-riser-board)
  PD5533E9/PD5533F - ?? (Pioneer PDP-502R - not on MUSE-board, probably main CPU)
+
+Samsung
+ KM4132G512TQ-10 - 16Mbit Sync. Graphics RAM / Most of them have the NEC RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
 
 Sanyo
  LC3564QM-10 - 8Kbyte SRAM (Panasonic TU-AHD100/N)
