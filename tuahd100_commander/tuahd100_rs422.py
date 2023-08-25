@@ -70,7 +70,7 @@ class TUAHD100_RS422:
             'Full'                      : 0x39,
             'Subtitles'                 : 0x3A,
             'SubtitlesOn'               : 0x49,
-            'SubtitlesOff'              : 0x50,
+            'SubtitlesOff'              : 0x4A,  # fixed in TU-AHD100N manual (TU-AHD100 manual says 0x50)
             'ScreenAlignment'           : 0x3B,  # 画面位置調整
             'ColorTemperatureHigh'      : 0x4B,
             'ColorTemperatureStandard'  : 0x4C,
