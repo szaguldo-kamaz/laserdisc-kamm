@@ -27,5 +27,5 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  74HC4538A - Dual prec. monostab. multivib (Sony MSC-3000 board A, Sony MSC-4000 board A)
  PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x, ?Sony MST-2000?, Sony MSC-3000)
  MC14052B/BCP - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-3000 2x board A, Sony MSC-4000 2x board A, Panasonic TU-AHD100/N - not on MUSE board)
- MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-3000 3x board A, Sony MSC-4000 3x board A)
+ MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-3000 3x board A, Sony MSC-4000 3x board A, Panasonic TU-AHD100/N - not on MUSE board - on backplane (maybe muse input selector? didn't trace))
  BA14741F - Op-amp (?Sony MST-2000 6x?, Sony MSC-3000 6x)
