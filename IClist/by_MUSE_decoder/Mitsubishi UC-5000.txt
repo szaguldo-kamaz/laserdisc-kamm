@@ -1,0 +1,24 @@
+MUSE decoding related IC list
+---------------------------------------------------
+Compiled by David Vincze (kamm at laserdisc dot hu)
+https://github.com/szaguldo-kamaz/laserdisc-iclist/
+---------------------------------------------------
+
+ AD1860N-J - 18-bit audio DAC (Mitsubishi UC-5000 x4)
+ HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
+ HD49304ANT - D/A Converter (Mitsubishi UC-5000)
+ 65013-AB7 - ?? (Mitsubishi UC-5000)
+ M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000)
+ M65602FP - ?? (Mitsubishi UC-5000)
+ M65603FP - ?? (Mitsubishi UC-5000)
+ M65604FP - ?? (Mitsubishi UC-5000)
+ D23C1000AC - ROM (Mitsubishi UC-5000)
+ D42101C-3 - 7K FIFO mem (Mitsubishi UC-5000 10x)
+ UPD6360C - 4-bit MCU (maybe IR control?) (Mitsubishi UC-5000 x3)
+ D75104GF - 4-bit MCU (Mitsubishi UC-5000)
+ MN73018TUR - ?MUSE Audio? (Victor HV-MC1000, Mitsubishi UC-5000)
+ MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000)
+ LC3564PML - 8Kbyte SRAM (Mitsubishi UC-5000 x4)
+ CXD1211P - Digital audio data modulator / transmitter (Mitsubishi UC-5000 x2)
+ YM3434 2-ch 8x oversampling dig. filter (audio) (Mitsubishi UC-5000 x2)
