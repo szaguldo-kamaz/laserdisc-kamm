@@ -4,7 +4,7 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, ?Sony MST-2000 6x?, Sony MSC-3000 6x)
+ PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, ?Sony MST-2000 6x?, Sony MSC-3000 6x, Sony SAT-MN5000)
  MB81C79A - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-500MN)
  MB86110 - 2G LSI - "Input Processor" (?Sony MST-2000?, Sony MSC-3000)
  MB86111A - 2G LSI - "Video Processor" (Sony MSC-3000)

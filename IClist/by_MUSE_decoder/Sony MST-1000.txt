@@ -17,7 +17,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  D9378GB - Small capacity FIFO (?Sony MST-1000 6x?)
  AN8140K/AN8140S - D/A Converter, 10-bit resolution, 50 MSPS, 5V, 150mW cons., TTL (?Sony MST-1000 3x?)
  MN53060TUG - 1G LSI - Control Timing Signal Generator (TSG) (?Sony MST-1000?)
- MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000)
+ MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000, Sony SAT-MN5000)
  MN73534TUF - 1G LSI - Control Data Decoder (Maybe MN73535TUF?) (?Sony MST-1000?)
  MN73556TUE - 1G LSI - Audio Processor 2 (DPCM decoder) (?Sony MST-1000?)
  LH50523 - 1G LSI - Delay circuit for 2D Filter (?Sony MST-1000?)

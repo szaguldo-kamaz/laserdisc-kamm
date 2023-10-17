@@ -5,7 +5,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
  CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
- CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?)
+ CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?, Sony SAT-MN5000 on sat board)
  CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder / MUSE Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXD2021Q - MUSE-NTSC Signal Conversion Decoder / NTSC Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
  CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x, ?Sony SAU-300MN - 3x?)

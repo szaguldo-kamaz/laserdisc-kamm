@@ -22,6 +22,7 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Sony MSC-4000
 * Sony SAU-300MN (partial)
 * Sony SAU-500MN
+* Sony SAT-MN5000
 * Victor HV-MC1000
 * Victor HV-VMD1
 * Victor HV-MD2 (thanks to Alex Pustan / [pustan.com](https://pustan.com) for the detailed photos!)

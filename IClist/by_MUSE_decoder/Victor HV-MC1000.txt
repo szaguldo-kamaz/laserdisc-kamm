@@ -4,23 +4,23 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, ?Sony MST-2000 6x?, Sony MSC-3000 6x)
+ PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, ?Sony MST-2000 6x?, Sony MSC-3000 6x, Sony SAT-MN5000)
  CAT514221A-3 - ?mem? (Victor HV-MC1000 11x, Victor HV-VMD1 2x)
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
- HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
+ HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
  HD74AC244P - Octal buffer and line driver for mem address (Victor HV-MC1000)
  JCC5003 - ?? (Victor HV-MC1000 2x)
  JCC5004 - ?? (Victor HV-MC1000)
  M91U055 - ?? (Victor HV-MC1000)
  M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
- M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
- M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000)
+ M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000)
  D42102C-3 - 135-word by 8-bit Line Buffer (Victor HV-MC1000)
  SM5840CP - Digital Oversampling Filter (Audio) (Victor HV-MC1000 2x)
  M72H045 - ?? (Victor HV-MC1000)
- MN73018TUR - ?MUSE Audio? (Victor HV-MC1000, Mitsubishi UC-5000)
- MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000)
+ MN73018TUR - ?MUSE Audio? (Victor HV-MC1000, Mitsubishi UC-5000, Sony SAT-MN5000)
+ MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000, Sony SAT-MN5000)
  LC3664RML - 8Kbyte SRAM (Victor HV-MC1000 4x)
  TC9231N - Digital Audio Modulator (Victor HV-MC1000 2x)

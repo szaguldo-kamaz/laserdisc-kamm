@@ -12,7 +12,7 @@ Analog Devices
  AD1860N-J - 18-bit audio DAC (Mitsubishi UC-5000 x4)
 
 Burr-Brown
- PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, ?Sony MST-2000 6x?, Sony MSC-3000 6x)
+ PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, ?Sony MST-2000 6x?, Sony MSC-3000 6x, Sony SAT-MN5000)
  PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN 2x, Hitachi HD-M20 x5)
 
 CSI
@@ -26,6 +26,7 @@ Fujitsu
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
+ MB7114L - 1Kbit ROM - (Sony SAT-MN5000 - "SAT1" label)
  MB81C79A - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-500MN)
  MB86110 - 2G LSI - "Input Processor" (?Sony MST-2000?, Sony MSC-3000)
  MB86111 - 2G LSI - "Video Processor" (?Sony MST-2000?)
@@ -39,7 +40,7 @@ Fujitsu
  MB86118 - 1-chip M-N Converter
 
 Hitachi
- HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
+ HA19211BNT - A/D Converter, 8-bit res, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000) - https://datasheetspdf.com/pdf-file/56290/HitachiSemiconductor/HA19211BNT/1
  HA19214NT - 1G LSI - A/D Converter (?Sony MST-1000?)
  HD49304ANT - D/A Converter (Mitsubishi UC-5000)
  HD49407 - 1G LSI - Waveform equalization TRF (?Sony MST-1000?)
@@ -69,7 +70,7 @@ Macronix (MX)
 Mitsubishi
  65013-AB7 - ?? (Mitsubishi UC-5000)
  M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
- M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M52036SP - Sync signal processor (Panasonic TU-AHD100/N - not on MUSE board 2x)
  M52055P - 3ch video switch (Panasonic TU-AHD100/N - not on MUSE board)
  M52347FP - Sync. signal processor (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
@@ -81,12 +82,14 @@ Mitsubishi
  M52654FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52655FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52657FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M52684AFP - Sync separator, Horizontal AFC (Sony SAT-MN5000 on sat board)
+ M5M4C500L - Field Memory (Sony SAT-MN5000 2x)
  M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
  M65530FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
- M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000)
- M65602FP - ?? (Mitsubishi UC-5000)
- M65603FP - ?? (Mitsubishi UC-5000)
- M65604FP - ?? (Mitsubishi UC-5000)
+ M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000)
+ M65602FP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000)
+ M65603FP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000)
+ M65604FP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000)
  M65609FP - ?? (Panasonic TU-HDC700)
  M65619FP - ?? (Panasonic TU-HDC700)
  M65620FP - 2G LSI - OCP / Output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
@@ -100,6 +103,7 @@ Mitsubishi
 NEC (Nihon Denki - 日本電気)
  D23C1000AC - ROM (Mitsubishi UC-5000)
  D42101C-3 - 7K FIFO mem (Mitsubishi UC-5000 10x)
+ D42101G-3 - 7K FIFO mem (Sony SAT-MN5000 10x)
  D42102C-3 - 135-word by 8-bit Line Buffer (Victor HV-MC1000)
  D42102G-3 - 135-word by 8-bit Line Buffer (Mitsubishi MD-CZ11, Victor HV-MD2)
  D42102G-5 - 135-word by 8-bit Line Buffer (Victor HV-VMD1)
@@ -157,8 +161,8 @@ Panasonic (Matsushita - 松下)
  MN5350 - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  MN6570TF - 3ch D/A Converter, 8-bit resolution, 40 MSPS (Panasonic TU-AHD100/N 2x) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
  MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
- MN73018TUR - ?MUSE Audio? (Victor HV-MC1000, Mitsubishi UC-5000)
- MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000)
+ MN73018TUR - ?MUSE Audio? (Victor HV-MC1000, Mitsubishi UC-5000, Sony SAT-MN5000)
+ MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000, Sony SAT-MN5000)
  MN73534TUF - 1G LSI - Control Data Decoder (Maybe MN73535TUF?) (?Sony MST-1000?)
  MN73556TUE - 1G LSI - Audio Processor 2 (DPCM decoder) (?Sony MST-1000?)
  MN76022TVF - 2G LSI - STG / Synchronization (Panasonic TU-AHD100/N, NEC HV-MD5000T)
@@ -206,7 +210,9 @@ Sharp
 Sony
  A1833Q - ?? (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
  CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
+ CXA1228S - NTSC/PAL video decoder (Sony SAT-MN5000 on sat board)
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
+ CXA1260Q - 8-bit 35 MSPS RGB 3-CHANNEL D/A CONVERTER (Sony SAT-MN5000)
  CXA1451M - Wideband Video Switch (Sony MSC-3000 3x for Y/Pb/Pr monitor/video, Sony MSC-4000 3x for Y/Pb/Pr monitor/video)
  CXA1478S - ?HV sync generator for RGBHV? (Panasonic TU-AHD100/N - not on MUSE board)
  CXA1582P - ??? (Panasonic TU-AHD100/N - not on MUSE board)
@@ -216,10 +222,13 @@ Sony
  CXA1732M - ?? (Sony MSC-3000 board A, Sony MSC-4000 board A)
  CXA1834Q - ?? (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
- CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?)
- CXD1211P - Digital audio data modulator / transmitter (Mitsubishi UC-5000 x2)
+ CXD1171M - 8-bit 50 MSPS Video A/D (Sony SAT-MN5000)
+ CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?, Sony SAT-MN5000 on sat board)
+ CXD1211P - Digital audio data modulator / transmitter (Mitsubishi UC-5000 x2, Sony SAT-MN5000 2x)
  CXD1214G - 1G LSI - Inverse Matrix (?Sony MST-1000?)
  CXD1215G - 1G LSI - Gamma corrector (?Sony MST-1000 3x?)
+ CXD1244 - Digital Filter (Audio) (Sony SAT-MN5000 on sat board)
+ CXD2012Q - ??? (Sony SAT-MN5000 on sat board)
  CXD2015Q - 2G LSI - "Equalizer" (Hitachi HD-M20)
  CXD2015AQ - 2G LSI - "Equalizer" (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
  CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder / MUSE Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
@@ -227,13 +236,18 @@ Sony
  CXD2037Q - ?? (Sony MSC-3000, Sony MSC-4000)
  CXD2038Q - ?? (Sony MSC-3000, Sony MSC-4000)
  CXD2067 - HDTV-NTSC Converter
+ CXD2105AQ - Digital Comb Filter (Sony SAT-MN5000 on sat board)
  CXD2305Q - 3ch 10-bit, ?45?50? MSPS DAC (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000, Hitachi HD-M20)
  CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x, ?Sony SAU-300MN - 3x?)
+ CXK5864BM-70LL - 8Kbyte SRAM (Sony SAT-MN5000 2x)
+ CXK5671M-35 - ?RAM? (Sony SAT-MN5000)
+ CXP5048H - ?4-bit? MCU (Sony SAT-MN5000 on sat board)
+ CXP5068H - ?4-bit? MCU (Sony SAU-500MN, Sony SAT-MN5000)
  CXP80424 - 8-bit MCU? (?Sony MST-2000?, Sony MSC-3000)
  CXP80624A - 8-bit MCU with 24Kbyte ROM (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
  CXP85116B - 8-bit MCU with 16Kbyte ROM / 352 byte RAM (Sony MSC-3000 board A, Sony MSC-4000 board A)
- CXP5068H-230Q - ?4-bit? MCU (Sony SAU-500MN)
+ D1050A-13P - ??? (Sony SAT-MN5000 on sat board)
  D29170 - ?? (Sony MSC-4000)
 
 Texas Instruments
