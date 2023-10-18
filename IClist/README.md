@@ -20,9 +20,10 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Sony MST-2000 (partial, based on low-quality photos and guessing)
 * Sony MSC-3000
 * Sony MSC-4000
-* Sony SAU-300MN (partial)
+* Sony SAU-300MN
 * Sony SAU-500MN
 * Sony SAT-MN5000
+* Toshiba TT-MN1
 * Victor HV-MC1000
 * Victor HV-VMD1
 * Victor HV-MD2 (thanks to Alex Pustan / [pustan.com](https://pustan.com) for the detailed photos!)
