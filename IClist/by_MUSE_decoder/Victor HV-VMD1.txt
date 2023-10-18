@@ -19,5 +19,5 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  M514212-2B - ?mem? (Victor HV-VMD1)
  M518222-25Z - ?mem? (Victor HV-VMD1 4x)
  M7U016-009 - ?? (Victor HV-VMD1)
- TC55257BFL-85L - 256kbit SRAM (Victor HV-VMD1)
- TC9056F - 2G LSI - MUSE-Audio Processor - 100 pin QFP (Victor HV-VMD1)
+ TC55257BFL-85L - 256kbit SRAM (Victor HV-VMD1, Toshiba TT-MN1)
+ TC9056F - 2G LSI - MUSE-Audio Processor - 100 pin QFP (Victor HV-VMD1, Toshiba TT-MN1)

@@ -1,0 +1,13 @@
+MUSE decoding related IC list
+---------------------------------------------------
+Compiled by David Vincze (kamm at laserdisc dot hu)
+https://github.com/szaguldo-kamaz/laserdisc-iclist/
+---------------------------------------------------
+
+ MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11, Victor HV-MD2, Toshiba TT-MN1)
+ M514221-30R - ?mem? (Toshiba TT-MN1)
+ LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x, Toshiba TT-MN1) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
+ CXP81432A - 8-bit MCU with ROM (Toshiba TT-MN1)
+ TC55257BFL-85L - 256kbit SRAM (Victor HV-VMD1, Toshiba TT-MN1)
+ TC9056F - 2G LSI - MUSE-Audio Processor - 100 pin QFP (Victor HV-VMD1, Toshiba TT-MN1)
+ TC9075F - 2G LSI - 1-chip M-N Converter (Toshiba TT-MN1)

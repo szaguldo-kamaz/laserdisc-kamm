@@ -4,7 +4,7 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11, Victor HV-MD2)
+ MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11, Victor HV-MD2, Toshiba TT-MN1)
  JCC5032-A - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  M5M5256DVP - 32Kbyte SRAM (Mitsubishi MD-CZ11, Victor HV-MD2)
  D42102G-3 - 135-word by 8-bit Line Buffer (Mitsubishi MD-CZ11, Victor HV-MD2)
@@ -12,4 +12,4 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  MN47V77S - 256kb FIFO Field Memory (Mitsubishi MD-CZ11 6x, Victor HV-MD2 6x)
  MN5350 - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  MN8260 -  Audio Processing LSI for MUSE Decoders - (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, Mitsubishi MD-CZ11, Victor HV-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
- LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
+ LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x, Toshiba TT-MN1) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1

@@ -22,7 +22,7 @@ Cypress Semiconductor:
  CY7C182-35VC - SRAM 72Kb (8K x 9) (Sony MSC-4000)
 
 Fujitsu
- MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11, Victor HV-MD2)
+ MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11, Victor HV-MD2, Toshiba TT-MN1)
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
@@ -135,6 +135,7 @@ NPC (Nippon Precision Circuits)
 
 OKI
  M514212-2B - ?mem? (Victor HV-VMD1)
+ M514221-30R - ?mem? (Toshiba TT-MN1)
  M518222-25Z - ?mem? (Victor HV-VMD1 4x)
  M7U016-009 - ?? (Victor HV-VMD1)
  M72H045 - ?? (Victor HV-MC1000)
@@ -187,7 +188,7 @@ Sanyo
  LC3664RML - 8Kbyte SRAM (Victor HV-MC1000 4x)
  LC7492E - 2G LSI - MUSE Processor (in M-N converter)
  LC7493F - 2G LSI - NTSC Processor (in M-N converter)
- LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
+ LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x, Toshiba TT-MN1) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
  LCL6301F - 2G LSI - Equalizer
  LCL6302F - 2G LSI - Data detector
  LCL6303F - 2G LSI - Video processor
@@ -243,6 +244,7 @@ Sony
  CXP5068H - ?4-bit? MCU (Sony SAU-300MN, Sony SAU-500MN, Sony SAT-MN5000)
  CXP80424 - 8-bit MCU? (?Sony MST-2000?, Sony MSC-3000)
  CXP80624A - 8-bit MCU with 24Kbyte ROM (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
+ CXP81432A - 8-bit MCU with ROM (Toshiba TT-MN1)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
  CXP85116B - 8-bit MCU with 16Kbyte ROM / 352 byte RAM (Sony MSC-3000 board A, Sony MSC-4000 board A)
  D1050A-13P - ??? (Sony SAT-MN5000 on sat board)
@@ -264,7 +266,7 @@ Toshiba (東芝)
  TC110G17AF - Gate Array (NEC HV-MD5000T)
  TC160G16AF0104 - Clock gen / Clock drive (for TC9071F?)
  TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-502R 2x, Panasonic TU-PH20 2x, Panasonic TU-PH30 2x, Panasonic TU-MDC100 2x)
- TC55257BFL-85L - 256kbit SRAM (Victor HV-VMD1)
+ TC55257BFL-85L - 256kbit SRAM (Victor HV-VMD1, Toshiba TT-MN1)
  TC9043N - 1G LSI - Non-linear processor (de-emphasis?) (?Sony MST-1000?)
  TC9044N - 1G LSI - Motion detection 1 (Edge detection) (?Sony MST-1000?)
  TC9045N - 1G LSI - Motion detection 2 (Frame difference detection) (Sony MST-1000)
@@ -273,11 +275,11 @@ Toshiba (東芝)
  TC9047N-002 - 1G LSI - Symmetric Filter (2D Filter - Center) (?Sony MST-1000?)
  TC9047N-003 - 1G LSI - Symmetric Filter (2D Filter - Internal/Inside) (?Sony MST-1000?)
  TC9047N-004 - 1G LSI - Symmetric Filter (2D Filter - External/Outside) (?Sony MST-1000?)
- TC9056F - 2G LSI - MUSE-Audio Processor - 100 pin QFP (Victor HV-VMD1)
+ TC9056F - 2G LSI - MUSE-Audio Processor - 100 pin QFP (Victor HV-VMD1, Toshiba TT-MN1)
  TC9071F - 2G LSI - TIM - Sync. Regen. Equalizer (Timing, Clock/sync regen, clamp + video level control, 32-tap adaptive EQ) - 144 pin QFP
  TC9072G - 2G LSI - MPP - Motion Picture Processing (De-emphasis filt, 2D filt, frame interpolator, custom RAM for line-delay) - 144 pin QFP
  TC9073F - 2G LSI - MOD - Motion Detection (4-bit motion detection for luma+chroma, line-delay RAM) - 144 pin QFP
- TC9075F - 2G LSI - 1-chip M-N Converter
+ TC9075F - 2G LSI - 1-chip M-N Converter (Toshiba TT-MN1)
  TC9231N - Digital Audio Modulator (Victor HV-MC1000 2x)
  TMP91C640 - 2G LSI - MCU
 
