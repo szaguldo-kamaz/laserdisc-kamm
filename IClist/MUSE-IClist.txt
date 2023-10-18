@@ -13,7 +13,7 @@ Analog Devices
 
 Burr-Brown
  PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, ?Sony MST-2000 6x?, Sony MSC-3000 6x, Sony SAT-MN5000)
- PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN 2x, Hitachi HD-M20 x5)
+ PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-300MN 2x, Sony SAU-500MN 2x, Hitachi HD-M20 x5)
 
 CSI
  CAT514221A-3 - ?mem? (Victor HV-MC1000 11x, Victor HV-VMD1 2x)
@@ -27,15 +27,13 @@ Fujitsu
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
  MB7114L - 1Kbit ROM - (Sony SAT-MN5000 - "SAT1" label)
- MB81C79A - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-500MN)
+ MB81C79A - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN)
  MB86110 - 2G LSI - "Input Processor" (?Sony MST-2000?, Sony MSC-3000)
- MB86111 - 2G LSI - "Video Processor" (?Sony MST-2000?)
- MB86111A - 2G LSI - "Video Processor" (Sony MSC-3000)
+ MB86111(A) - 2G LSI - "Video Processor" (?Sony MST-2000?, Sony MSC-3000 (A))
  MB86112 - 2G LSI - "Motion Detector" (?Sony MST-2000?, Sony MSC-3000)
  MB86113 - 2G LSI - "Time Base" (?Hitachi HD-M20?, ?Sony MST-2000?)
  MB86114 - 2G LSI - "Output Processor" (?Sony MST-2000?)
- MB86115 - 2G LSI - "MUSE Sound Processor" (Hitachi HD-M20, ?Sony MST-2000?, Sony MSC-3000)
- MB86115A - 2G LSI - "MUSE Sound Processor" (Sony SAU-500MN, Sony MSC-4000)
+ MB86115(A) - 2G LSI - "MUSE Sound Processor" (Hitachi HD-M20, ?Sony MST-2000?, Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN (A), Sony MSC-4000 (A))
  MB86116 - ?? (Hitachi HD-M20)
  MB86118 - 1-chip M-N Converter
 
@@ -209,7 +207,7 @@ Sharp
 
 Sony
  A1833Q - ?? (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
- CXA1219M - NTSC/PAL video encoder (?Sony SAU-300MN?)
+ CXA1219M - NTSC/PAL video encoder (Sony SAU-300MN, Sony SAU-500MN)
  CXA1228S - NTSC/PAL video decoder (Sony SAT-MN5000 on sat board)
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
  CXA1260Q - 8-bit 35 MSPS RGB 3-CHANNEL D/A CONVERTER (Sony SAT-MN5000)
@@ -223,7 +221,7 @@ Sony
  CXA1834Q - ?? (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
  CXD1171M - 8-bit 50 MSPS Video A/D (Sony SAT-MN5000)
- CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-500MN, ?Sony SAU-300MN?, Sony SAT-MN5000 on sat board)
+ CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-300MN, Sony SAU-500MN, Sony SAT-MN5000 on sat board)
  CXD1211P - Digital audio data modulator / transmitter (Mitsubishi UC-5000 x2, Sony SAT-MN5000 2x)
  CXD1214G - 1G LSI - Inverse Matrix (?Sony MST-1000?)
  CXD1215G - 1G LSI - Gamma corrector (?Sony MST-1000 3x?)
@@ -231,24 +229,25 @@ Sony
  CXD2012Q - ??? (Sony SAT-MN5000 on sat board)
  CXD2015Q - 2G LSI - "Equalizer" (Hitachi HD-M20)
  CXD2015AQ - 2G LSI - "Equalizer" (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
- CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder / MUSE Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
- CXD2021Q - MUSE-NTSC Signal Conversion Decoder / NTSC Processor (Sony SAU-500MN, ?Sony SAU-300MN?)
+ CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder / MUSE Processor (Sony SAU-300MN, Sony SAU-500MN)
+ CXD2021Q - MUSE-NTSC Signal Conversion Decoder / NTSC Processor (Sony SAU-300MN, Sony SAU-500MN)
  CXD2037Q - ?? (Sony MSC-3000, Sony MSC-4000)
  CXD2038Q - ?? (Sony MSC-3000, Sony MSC-4000)
  CXD2067 - HDTV-NTSC Converter
  CXD2105AQ - Digital Comb Filter (Sony SAT-MN5000 on sat board)
  CXD2305Q - 3ch 10-bit, ?45?50? MSPS DAC (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000, Hitachi HD-M20)
- CXK1206AM - Frame memory SRAM (Sony SAU-500MN - 3x, ?Sony SAU-300MN - 3x?)
+ CXK1206AM - Frame memory SRAM (Sony SAU-300MN x3, Sony SAU-500MN x3)
  CXK5864BM-70LL - 8Kbyte SRAM (Sony SAT-MN5000 2x)
  CXK5671M-35 - ?RAM? (Sony SAT-MN5000)
  CXP5048H - ?4-bit? MCU (Sony SAT-MN5000 on sat board)
- CXP5068H - ?4-bit? MCU (Sony SAU-500MN, Sony SAT-MN5000)
+ CXP5068H - ?4-bit? MCU (Sony SAU-300MN, Sony SAU-500MN, Sony SAT-MN5000)
  CXP80424 - 8-bit MCU? (?Sony MST-2000?, Sony MSC-3000)
  CXP80624A - 8-bit MCU with 24Kbyte ROM (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
  CXP85116B - 8-bit MCU with 16Kbyte ROM / 352 byte RAM (Sony MSC-3000 board A, Sony MSC-4000 board A)
  D1050A-13P - ??? (Sony SAT-MN5000 on sat board)
  D29170 - ?? (Sony MSC-4000)
+ D2917Q - "Digital Audio Data Modulation and Transmission" / Switch (Sony SAU-300MN x2)
 
 Texas Instruments
  D77538PGE - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
@@ -299,7 +298,7 @@ Others
  74HC74A - Dual D Flip-Flop (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  AN6554NS - Op-amp (Panasonic TU-AHD100/N, 5x Panasonic TU-HDC700)
  F432116PH - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
- PD00601 - Digital Filter (Audio use) (Sony SAU-500MN 2x, ?Sony MST-2000?, Sony MSC-3000)
+ PD00601 - Digital Filter (Audio use) (Sony SAU-300MN 2x, Sony SAU-500MN 2x, ?Sony MST-2000?, Sony MSC-3000)
  MC14052B/BCP - Dual 4-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-3000 2x board A, Sony MSC-4000 2x board A, Panasonic TU-AHD100/N - not on MUSE board)
  MC14053B - Triple 2-channel analog multiplexer / digitally-controlled analog switch (Sony MSC-3000 3x board A, Sony MSC-4000 3x board A, Panasonic TU-AHD100/N - not on MUSE board - on backplane (maybe muse input selector? didn't trace))
  MC14066B - Quad Analog Switch/Quad Multiplexer (Panasonic TU-AHD100/N - not on MUSE board)

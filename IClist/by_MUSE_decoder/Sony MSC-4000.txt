@@ -6,7 +6,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
 
  AK4319VM - 18-bit Stereo DAC Audio (Sony MSC-4000 5x)
  CY7C182-35VC - SRAM 72Kb (8K x 9) (Sony MSC-4000)
- MB86115A - 2G LSI - "MUSE Sound Processor" (Sony SAU-500MN, Sony MSC-4000)
+ MB86115(A) - 2G LSI - "MUSE Sound Processor" (Hitachi HD-M20, ?Sony MST-2000?, Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN (A), Sony MSC-4000 (A))
  D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x, Panasonic TU-HDC700)
  A1833Q - ?? (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
  CXA1451M - Wideband Video Switch (Sony MSC-3000 3x for Y/Pb/Pr monitor/video, Sony MSC-4000 3x for Y/Pb/Pr monitor/video)

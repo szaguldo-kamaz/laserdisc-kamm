@@ -4,9 +4,9 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-500MN 2x, Hitachi HD-M20 x5)
+ PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-300MN 2x, Sony SAU-500MN 2x, Hitachi HD-M20 x5)
  MB86113 - 2G LSI - "Time Base" (?Hitachi HD-M20?, ?Sony MST-2000?)
- MB86115 - 2G LSI - "MUSE Sound Processor" (Hitachi HD-M20, ?Sony MST-2000?, Sony MSC-3000)
+ MB86115(A) - 2G LSI - "MUSE Sound Processor" (Hitachi HD-M20, ?Sony MST-2000?, Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN (A), Sony MSC-4000 (A))
  MB86116 - ?? (Hitachi HD-M20)
  CXD2015Q - 2G LSI - "Equalizer" (Hitachi HD-M20)
  CXD2305Q - 3ch 10-bit, ?45?50? MSPS DAC (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000, Hitachi HD-M20)
