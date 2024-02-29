@@ -15,6 +15,8 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Panasonic TU-PH20 (decoder module only, more to come regarding the others)
 * Panasonic TU-PH30 (partial, based on info from drewmanfu0)
 * Panasonic TU-MDC100 (partial, based on info from drewmanfu0)
+* Pioneer HM-D101 (partial, based on some photos only)
+* Pioneer PDP-501R
 * Pioneer PDP-502R
 * Sony MST-1000 (partial, based on a photo and some other docs)
 * Sony MST-2000 (partial, based on low-quality photos and guessing)
