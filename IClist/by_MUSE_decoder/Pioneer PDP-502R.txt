@@ -25,7 +25,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  PD5533E9/PD5533F - ?? (Pioneer PDP-502R - not on MUSE-board, probably main CPU)
  KM4132G512TQ-10 - 16Mbit Sync. Graphics RAM / Most of them have the NEC RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  LH5317YN - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100?)
- CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T, Panasonic TU-HDC500)
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
  D77538PGE - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  Y2932 FOXT - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)

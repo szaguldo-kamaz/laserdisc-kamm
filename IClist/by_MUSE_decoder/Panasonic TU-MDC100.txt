@@ -22,7 +22,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  MN8260 - Audio Processing LSI for MUSE Decoders (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, Mitsubishi MD-CZ11, Victor HV-MD2) - https://www.datasheetarchive.com/pdf/download.php?id=6700633f64f518e84af8268d49a8822078ea6b&type=M&term=MN8260
  KM4132G512TQ-10 - 16Mbit Sync. Graphics RAM / Most of them have the NEC RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  LH5317YN - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100?)
- CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T, Panasonic TU-HDC500)
  D77538PGE - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  Y2932 FOXT - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-501R 2x, Pioneer PDP-502R 2x, Panasonic TU-PH20 2x, Panasonic TU-PH30 2x, Panasonic TU-MDC100 2x)

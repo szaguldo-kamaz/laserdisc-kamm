@@ -8,7 +8,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  MB81C79A - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN)
  MB86115(A) - 2G LSI - "MUSE Sound Processor" (?Sony MST-2000?, Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN (A), Sony MSC-4000 (A), Pioneer HM-D101, Hitachi HD-M20)
  CXA1219M - NTSC/PAL video encoder (Sony SAU-300MN, Sony SAU-500MN)
- CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-300MN, Sony SAU-500MN, Sony SAT-MN5000 on sat board)
+ CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-300MN, Sony SAU-500MN, Sony SAT-MN5000 on sat board, Panasonic TU-HDC500)
  CXD2020Q/AQ - MUSE-NTSC Digital Chroma Decoder / MUSE Processor (Sony SAU-300MN, Sony SAU-500MN)
  CXD2021Q - MUSE-NTSC Signal Conversion Decoder / NTSC Processor (Sony SAU-300MN, Sony SAU-500MN)
  CXK1206AM - Frame memory SRAM (Sony SAU-300MN x3, Sony SAU-500MN x3)
