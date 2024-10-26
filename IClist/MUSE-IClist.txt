@@ -12,6 +12,7 @@ Analog Devices
  AD1860N-J - 18-bit audio DAC (Mitsubishi UC-5000 x4)
 
 Burr-Brown
+ PCM56P - 16-bit mono DAC (Panasonic TU-HDC300 4x)
  PCM67P/U - Advanced 1-Bit BiCMOS Dual 18-Bit DAC / Audio (Victor HV-MC1000 2x, ?Sony MST-2000 6x?, Sony MSC-3000 6x, Sony SAT-MN5000)
  PCM1700U - Dual 18-Bit Monolithic Audio DAC (Sony SAU-300MN 2x, Sony SAU-500MN 2x, Pioneer HM-D101 x5, Hitachi HD-M20 x5)
 
@@ -23,6 +24,7 @@ Cypress Semiconductor:
 
 Fujitsu
  MB40568 - 8-bit A/D Converter, 20 MSPS (Mitsubishi MD-CZ11, Victor HV-MD2, Toshiba TT-MN1)
+ MB40578 - 8-bit A/D converter, 20 MSPS (Panasonic TU-HDC300)
  MB40778 - 8-bit D/A Converter, 20 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
@@ -67,7 +69,7 @@ Macronix (MX)
 Mitsubishi
  65013-AB7 - ?? (Mitsubishi UC-5000)
  M50253P - 12-bit/16-bit Serial-Parallel Converter (Victor HV-MC1000) - https://datasheetspdf.com/pdf-file/220398/Mitsubishi/M50253P/1
- M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
+ M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M52036SP - Sync signal processor (Panasonic TU-AHD100/N - not on MUSE board 2x)
  M52055P - 3ch video switch (Panasonic TU-AHD100/N - not on MUSE board)
  M52347FP - Sync. signal processor (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
@@ -80,13 +82,13 @@ Mitsubishi
  M52655FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52657FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52684AFP - Sync separator, Horizontal AFC (Sony SAT-MN5000 on sat board)
- M5M4C500L - Field Memory (Sony SAT-MN5000 2x)
+ M5M4C500L - Field Memory (Sony SAT-MN5000 2x, Panasonic TU-HDC300 2x)
  M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
  M65530FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
- M65601FP - ?? (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000)
- M65602FP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000)
- M65603FP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000)
- M65604FP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000)
+ M65601FP/AFP - ?? (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300)
+ M65602FP/AFP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300)
+ M65603FP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300)
+ M65604FP - ?? (Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300)
  M65609FP - ?? (Panasonic TU-HDC700)
  M65619FP - ?? (Panasonic TU-HDC700)
  M65620FP - 2G LSI - OCP / Output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
@@ -103,9 +105,9 @@ Mitsubishi
 NEC (Nihon Denki - 日本電気)
  D23C1000AC - ROM (Mitsubishi UC-5000)
  D42101C-3 - 7K FIFO mem (Mitsubishi UC-5000 10x)
- D42101G-3 - 7K FIFO mem (Sony SAT-MN5000 10x)
+ D42101G-3 - 7K FIFO mem (Sony SAT-MN5000 10x, Panasonic TU-HDC300 4x)
  D42102C-3 - 135-word by 8-bit Line Buffer (Victor HV-MC1000)
- D42102G-3 - 135-word by 8-bit Line Buffer (Mitsubishi MD-CZ11, Victor HV-MD2)
+ D42102G-3 - 135-word by 8-bit Line Buffer (Mitsubishi MD-CZ11, Victor HV-MD2, Panasonic TU-HDC300 6x)
  D42102G-5 - 135-word by 8-bit Line Buffer (Victor HV-VMD1)
  D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x, Panasonic TU-HDC700)
  D4811650GF - 16Mbit Sync. Graphics RAM / Some have the Samsung RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
@@ -152,9 +154,12 @@ Panasonic (Matsushita - 松下)
  AN8146FBQ - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg (Pioneer PDP-501R)
  MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  MN1020003 - ?MCU? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100?)
+ MN12C25D - 608-bit Mask ROM (Panasonic TU-HDC300)
+ MN17P58SDP - 4-bit MCU (Panasonic TU-HDC300)
  MN1871631T2P - ?MCU? (Panasonic TU-HDC700)
  MN18888TIG - 2G LSI - STG / Synchronization
  MN18888TNG - 2G LSI - ?STG / Synchronization? (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ MN4464S - 8kbyte Static RAM (Panasonic TU-HDC300 4x)
  MN47C401FS - 4M Field Memory (Panasonic TU-AHD100/N 3x)
  MN4760S - ?mem? (Panasonic TU-AHD100/N 3x)
  MN4776AS - 256k x 4bit FIFO mem (Pioneer PDP-501R 10x)
@@ -163,12 +168,13 @@ Panasonic (Matsushita - 松下)
  MN53060TUG - 1G LSI - Control Timing Signal Generator (TSG) (?Sony MST-1000?)
  MN5350 - ?? (Mitsubishi MD-CZ11, Victor HV-MD2)
  MN6479A - Stereo Audio DAC (Pioneer PDP-501R 2x)
+ MN6556AS - 20 MSPS 8-bit DAC (Panasonic TU-HDC300)
  MN6570TF - 3ch D/A Converter, 8-bit resolution, 40 MSPS (Panasonic TU-AHD100/N 2x, Panasonic TU-HDC500) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
  MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
  MN7A001TVS - ??? (Panasonic TU-HDC500)
  MN7A002TVT - ??? (Panasonic TU-HDC500)
- MN73018TUR - ?MUSE Audio? (Victor HV-MC1000, Mitsubishi UC-5000, Sony SAT-MN5000)
- MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000, Sony SAT-MN5000)
+ MN73018TUR - ?MUSE Audio? (Victor HV-MC1000, Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300)
+ MN73534TUD - 1G LSI - Audio Processor 1 (16.2Mhz -> 12.15Mhz, ternary->binary conversion, deinterleaving -> 1350bit/s audio stream) (Victor HV-MC1000, ?Sony MST-1000?, Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300)
  MN73534TUF - 1G LSI - Control Data Decoder (Maybe MN73535TUF?) (?Sony MST-1000?)
  MN73556TUE - 1G LSI - Audio Processor 2 (DPCM decoder) (?Sony MST-1000?)
  MN76022TVF - 2G LSI - STG / Synchronization (Panasonic TU-AHD100/N, NEC HV-MD5000T)
@@ -197,6 +203,7 @@ Sanyo
  LC3664RML - 8Kbyte SRAM (Victor HV-MC1000 4x)
  LC7492E - 2G LSI - MUSE Processor (in M-N converter)
  LC7493F - 2G LSI - NTSC Processor (in M-N converter)
+ LC7570 - Drivers for Vacuum Fluorescent Display (Panasonic TU-HDC300)
  LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Panasonic TU-HDC500 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x, Toshiba TT-MN1) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
  LCL6301F - 2G LSI - Equalizer
  LCL6302F - 2G LSI - Data detector
@@ -232,7 +239,7 @@ Sony
  CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board)
  CXD1171M - 8-bit 50 MSPS Video A/D (Sony SAT-MN5000)
  CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-300MN, Sony SAU-500MN, Sony SAT-MN5000 on sat board, Panasonic TU-HDC500)
- CXD1211P - Digital audio data modulator / transmitter (Mitsubishi UC-5000 x2, Sony SAT-MN5000 2x)
+ CXD1211P - Digital audio data modulator / transmitter (Mitsubishi UC-5000 x2, Sony SAT-MN5000 2x, Panasonic TU-HDC300 2x)
  CXD1214G - 1G LSI - Inverse Matrix (?Sony MST-1000?)
  CXD1215G - 1G LSI - Gamma corrector (?Sony MST-1000 3x?)
  CXD1244 - Digital Filter (Audio) (Sony SAT-MN5000 on sat board)
@@ -295,7 +302,7 @@ Victronix
  VN4774S-03 - ?VRAM? (Panasonic TU-AHD100/N, Panasonic TU-HDC500 2x)
 
 Yamaha
- YM3434 2-ch 8x oversampling dig. filter (audio) (Mitsubishi UC-5000 x2)
+ YM3434 2-ch 8x oversampling dig. filter (audio) (Mitsubishi UC-5000 x2, Panasonic TU-HDC300 2x)
 
 Others
  74AC00 - Quad NAND gate (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
