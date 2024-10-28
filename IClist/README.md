@@ -11,6 +11,7 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Mitsubishi MD-CZ11
 * NEC HV-MD5000T (partial, based on some photos only, thanks to drewmanfu0)
 * Panasonic TU-AHD100(N)
+* Panasonic TU-HDC300
 * Panasonic TU-HDC500
 * Panasonic TU-HDC700
 * Panasonic TU-PH20 (decoder module only, more to come regarding the others)
