@@ -12,7 +12,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  MN76024TVG/O? - 2G LSI - ??? (Panasonic TU-HDC500)
  L7A1133 - 2G LSI - MAP / MUSE Audio Processor (Panasonic TU-AHD100/N, NEC HV-MD5000T, Panasonic TU-HDC500)
  LC78835M/KM - 18-bit digital filter and D/A for Audio (Panasonic TU-AHD100/N 3x, Panasonic TU-HDC500 3x, Mitsubishi MD-CZ11 2x, Victor HV-MD2 2x, Toshiba TT-MN1) - https://datasheetspdf.com/pdf-file/67046/SanyoSemiconDevice/LC78835KM/1
- CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100, NEC HV-MD5000T, Panasonic TU-HDC500)
+ CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, NEC HV-MD5000T, Panasonic TU-HDC500)
  CXD1175AM - 8-bit 20 MSPS Video A/D Converter (Sony SAU-300MN, Sony SAU-500MN, Sony SAT-MN5000 on sat board, Panasonic TU-HDC500)
  VN4772S-03 - ?VRAM? (Panasonic TU-AHD100/N, Panasonic TU-HDC500 2x)
  VN4774S-03 - ?VRAM? (Panasonic TU-AHD100/N, Panasonic TU-HDC500 2x)
