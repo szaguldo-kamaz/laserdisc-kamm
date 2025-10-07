@@ -4,11 +4,11 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- M52654FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M52654FP - 2G LSI - Analog Input Processor (HDTV) (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52655FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52657FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
- M65530FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M65530FP - 3ch 10-bit video D/A (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M65645FP - ?? (Pioneer PDP-501R under heatsink, Panasonic TU-MDC100)
  M65646FP - ?? (Pioneer PDP-501R, Panasonic TU-MDC100)
  M65647FP - ?? (Pioneer PDP-501R, Panasonic TU-MDC100)

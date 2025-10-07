@@ -6,11 +6,11 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
 
  AK4311VM - 16-bit Sigma-Delta Stereo DAC Audio (Pioneer PDP-502R 2x, Panasonic TU-PH20 2x, Panasonic TU-PH30 2x)
  M52347FP - Sync. signal processor (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30) - https://datasheetspdf.com/pdf-file/387180/Mitsubishi/M52347FP/1
- M52654FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M52654FP - 2G LSI - Analog Input Processor (HDTV) (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52655FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52657FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
- M65530FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ M65530FP - 3ch 10-bit video D/A (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M65642FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  M65648FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  M65649FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)

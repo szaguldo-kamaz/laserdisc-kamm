@@ -4,9 +4,9 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- M52653FP/SP - ?2G LSI? - ??? (Panasonic TU-HDC500, Panasonic TU-HDC700)
- M65609FP - ?? (Panasonic TU-HDC700)
- M65619FP - ?? (Panasonic TU-HDC700)
+ M52653FP/SP - 2G LSI - Analog Input Processor (MUSE-NTSC) (Panasonic TU-HDC500, Panasonic TU-HDC700)
+ M65609FP - MUSE Signal processor (Panasonic TU-HDC700)
+ M65619FP - NTSC Signal processor (Panasonic TU-HDC700)
  M66311P - LED array driver (front panel) (Panasonic TU-HDC500, Panasonic TU-HDC700)
  D42280GU-30 - Field/Frame Memory 256kbit x 8 SRAM (Sony MSC-4000 7x, Panasonic TU-HDC700)
  MN1871631T2P - ?MCU? (Panasonic TU-HDC700)

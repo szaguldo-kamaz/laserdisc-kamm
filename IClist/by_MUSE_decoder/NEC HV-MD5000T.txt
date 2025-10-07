@@ -4,7 +4,7 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- M52651SP - 2G LSI - OPU / Analog output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
+ M52651SP - 2G LSI - OPU / Analog output processor (HDTV) (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  M52652SP - 2G LSI - CKU / Clock generator (NEC HV-MD5000T)
  M65620FP - 2G LSI - OCP / Output processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)
  D6476GD - 2G LSI - YSP / Luminance signal processor (Panasonic TU-AHD100/N, NEC HV-MD5000T)

@@ -4,7 +4,7 @@ Compiled by David Vincze (kamm at laserdisc dot hu)
 https://github.com/szaguldo-kamaz/laserdisc-iclist/
 ---------------------------------------------------
 
- M52653FP/SP - ?2G LSI? - ??? (Panasonic TU-HDC500, Panasonic TU-HDC700)
+ M52653FP/SP - 2G LSI - Analog Input Processor (MUSE-NTSC) (Panasonic TU-HDC500, Panasonic TU-HDC700)
  M66311P - LED array driver (front panel) (Panasonic TU-HDC500, Panasonic TU-HDC700)
  MN6570TF - 3ch D/A Converter, 8-bit resolution, 40 MSPS (Panasonic TU-AHD100/N 2x, Panasonic TU-HDC500) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14279/PANASONIC/MN6570TF.html
  MN7A001TVS - ??? (Panasonic TU-HDC500)
