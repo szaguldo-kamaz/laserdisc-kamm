@@ -20,7 +20,7 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Pioneer HM-D101 (partial, based on some photos only)
 * Pioneer PDP-501R
 * Pioneer PDP-502R
-* Sony MST-1000 (partial, based on a photo and some other docs)
+* Sony MST-1000
 * Sony MST-2000 (partial, based on low-quality photos and guessing)
 * Sony MSC-3000
 * Sony MSC-4000

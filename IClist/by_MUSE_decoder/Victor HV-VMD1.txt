@@ -14,7 +14,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  JCC5017 - ?M-N converter? (Victor HV-VMD1)
  M51295SP - Video encoder - component to composite/lum+chrom/RGB (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300) - https://www.datasheetarchive.com/pdf/download.php?id=6f42a51c6383c2a6bfae886d9e22720d840eff&type=O&term=51295SP
  M65601FP/AFP - MUSE Signal Processor, de-emphasis, auto level control (Victor HV-MC1000, Victor HV-VMD1, Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300)
- D42102G-5 - 135-word by 8-bit Line Buffer (Victor HV-VMD1)
+ D42102G-5 - 135-word by 8-bit Line Buffer, 1-H Line Delay  (Victor HV-VMD1, Sony MST-1000 x3)
  SM5870CS - Digital Audio D/A Converter (Victor HV-VMD1)
  M514212-2B - ?mem? (Victor HV-VMD1)
  M518222-25Z - ?mem? (Victor HV-VMD1 4x)
