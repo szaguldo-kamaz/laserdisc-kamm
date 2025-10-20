@@ -9,13 +9,15 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  M52654FP - 2G LSI - Analog Input Processor (HDTV) (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52655FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M52657FP - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
- M62393FP - 8-BIT 8CH I C-BUS D-A CONVERTER WITH BUFFER AMPLIFIERS (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
+ M62393FP - 8-bit 8ch D/A (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://datasheetspdf.com/pdf-file/400020/Mitsubishi/M62393FP/1
  M65530FP - 3ch 10-bit video D/A (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  M65642FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  M65648FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  M65649FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  D4811650GF - 16Mbit Sync. Graphics RAM / Some have the Samsung RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  AN3917S - ?16-pin clock gen? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ AN5392FBQ - Luminance and color difference drive/cutoff signal processor (Panasonic TU-PH20 - not on MUSE board, Panasonic TU-PH30 - not on MUSE board)
+ AN5395FBP - Contour correction IC for HDTV (Panasonic TU-PH20 - not on MUSE board, Panasonic TU-PH30 - not on MUSE board)
  MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  MN1020003 - ?MCU? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  MN65771F - A/D, 10-bit res, 18 MSPS, 5V (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100) - https://pdf1.alldatasheet.jp/datasheet-pdf/view/14283/PANASONIC/MN65771F.html
@@ -24,8 +26,10 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  KM4132G512TQ-10 - 16Mbit Sync. Graphics RAM / Most of them have the NEC RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  LH5317YN - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  CXA1229M - NTSC/PAL video encoder (Panasonic TU-AHD100/N x2, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, NEC HV-MD5000T, Panasonic TU-HDC500)
+ CXA2069Q - A/V switch (Pioneer PDP-502R - not on MUSE board, Panasonic TU-PH20 2x - not on MUSE board, Panasonic TU-PH30 2x - not on MUSE board)
  D77538PGE - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  Y2932 FOXT - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
+ SN761243PG - ??? (Panasonic TU-PH20 - not on MUSE board, Panasonic TU-PH30 - not on MUSE board)
  TC55257DFL-70L - 256kbit SRAM (Pioneer PDP-501R 2x, Pioneer PDP-502R 2x, Panasonic TU-PH20 2x, Panasonic TU-PH30 2x, Panasonic TU-MDC100 2x)
  74AC00 - Quad NAND gate (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  74HC4066A - Quad analog switch  (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)

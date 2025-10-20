@@ -14,8 +14,8 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Panasonic TU-HDC300
 * Panasonic TU-HDC500
 * Panasonic TU-HDC700
-* Panasonic TU-PH20 (decoder module only, more to come regarding the others)
-* Panasonic TU-PH30 (partial, based on info from drewmanfu0)
+* Panasonic TU-PH20
+* Panasonic TU-PH30
 * Panasonic TU-MDC100
 * Pioneer HM-D101
 * Pioneer PDP-501R
