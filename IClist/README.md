@@ -7,7 +7,7 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 
 **MUSE decoders** and **MUSE-NTSC converters**
 
-* Hitachi HD-M20 (partial, based on some photos only)
+* Hitachi HD-M20
 * Mitsubishi MD-CZ11
 * NEC HV-MD5000T (partial, based on some photos only, thanks to drewmanfu0)
 * Panasonic TU-AHD100(N)
@@ -17,7 +17,7 @@ Either by email to kamm at laserdisc.hu, join [this thread on lddb forums](https
 * Panasonic TU-PH20 (decoder module only, more to come regarding the others)
 * Panasonic TU-PH30 (partial, based on info from drewmanfu0)
 * Panasonic TU-MDC100
-* Pioneer HM-D101 (partial, based on some photos only)
+* Pioneer HM-D101
 * Pioneer PDP-501R
 * Pioneer PDP-502R
 * Sony MST-1000

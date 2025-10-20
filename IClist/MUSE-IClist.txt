@@ -10,6 +10,7 @@ AKM (Asahi Kasei Microdevices)
 
 Altera
  EP610PC-30 - PLD (Sony MST-1000 3x)
+ EPM5016SC-17 - EPLD (Pioneer HM-D101, ?Hitachi HD-M20?)
 
 Analog Devices
  AD1860N-J - 18-bit audio DAC (Mitsubishi UC-5000 x4)
@@ -34,14 +35,14 @@ Fujitsu
  MB40978/P-SH - 3ch 8-bit RGB D/A Converter, 60 MSPS (Victor HV-MC1000, Victor HV-VMD1)
  MB7132E - 1Kbyte ROM - (Victor HV-MC1000 - "HT1" label)
  MB7114L - 1Kbit ROM - (Sony SAT-MN5000 - "SAT1" label, Pioneer HM-D101, ?Hitachi HD-M20?)
- MB81C79A - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN)
+ MB81C79A-35 - 72Kbyte (8K x 9) SRAM (Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN, Pioneer HM-D101, ?Hitachi HD-M20?)
  MB86110 - 2G LSI - "Input Processor" (?Sony MST-2000?, Sony MSC-3000, Pioneer HM-D101, ?Hitachi HD-M20?)
- MB86111(A) - 2G LSI - "Video Processor" (?Sony MST-2000?, Sony MSC-3000 (A), ?Pioneer HM-D101?, ?Hitachi HD-M20?)
- MB86112 - 2G LSI - "Motion Detector" (?Sony MST-2000?, Sony MSC-3000, ?Pioneer HM-D101?, ?Hitachi HD-M20?)
+ MB86111(A) - 2G LSI - "Video Processor" (?Sony MST-2000?, Sony MSC-3000 (A), Pioneer HM-D101, ?Hitachi HD-M20?)
+ MB86112 - 2G LSI - "Motion Detector" (?Sony MST-2000?, Sony MSC-3000, Pioneer HM-D101, ?Hitachi HD-M20?)
  MB86113 - 2G LSI - "Time Base" (?Sony MST-2000?, Pioneer HM-D101, ?Hitachi HD-M20?)
- MB86114 - 2G LSI - "Output Processor" (?Sony MST-2000?, ?Pioneer HM-D101?, ?Hitachi HD-M20?)
+ MB86114(A) - 2G LSI - "Output Processor" (?Sony MST-2000?, Pioneer HM-D101, ?Hitachi HD-M20?)
  MB86115(A) - 2G LSI - "MUSE Sound Processor" (?Sony MST-2000?, Sony MSC-3000, Sony SAU-300MN, Sony SAU-500MN (A), Sony MSC-4000 (A), Pioneer HM-D101, Hitachi HD-M20)
- MB86116 - ?? (Pioneer HM-D101, Hitachi HD-M20)
+ MB86116 - ?Memory controller? (Pioneer HM-D101, Hitachi HD-M20)
  MB86117 - 2G LSI - "Memory Controller"
  MB86118 - 1-chip M-N Converter
  MB86119 - Multi Input-type Audio Interface (BS PCM, MUSE DPCM)
@@ -51,7 +52,7 @@ Hitachi
  HA19214NT - 1G LSI - A/D Converter (Sony MST-1000)
  HD49304ANT - D/A Converter (Mitsubishi UC-5000)
  HD49407 - 1G LSI - Waveform equalization TRF (Sony MST-1000)
- HD49417/FS - "Output Processor" for Sound (?Sony MST-2000?, Sony MSC-3000)
+ HD49417/FS - "Output Processor" for Sound (?Sony MST-2000?, Sony MSC-3000, Pioneer HM-D101, ?Hitachi HD-M20?)
  HD74AC244P - Octal buffer and line driver for mem address (Victor HV-MC1000)
  HM6264ALFP-12T - 64kbit SRAM (Sony MST-1000)
  HD647180X0FS6 - MCU (Sony MST-1000)
@@ -237,6 +238,7 @@ Sharp
  LH5317YN - ?? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
 
 Sony
+ A1603Q - ?? (Pioneer HM-D101, ?Hitachi HD-M20?)
  A1833Q - ?? (?Sony MST-2000?, Sony MSC-3000, Sony MSC-4000)
  CXA1056P - 8-bit 50 MSPS A/D (Sony MST-1000)
  CXA1219M - NTSC/PAL video encoder (Sony SAU-300MN, Sony SAU-500MN)
@@ -278,12 +280,14 @@ Sony
  CXP81432A - 8-bit MCU with ROM (Toshiba TT-MN1)
  CXP85112B - 8-bit MCU with 12Kbyte ROM / 352 byte RAM (Sony MSC-4000)
  CXP85116B - 8-bit MCU with 16Kbyte ROM / 352 byte RAM (Sony MSC-3000 board A, Sony MSC-4000 board A)
+ CXP M.EQ - ??? (Pioneer HM-D101, ?Hitachi HD-M20?)
  D1050A-13P - ??? (Sony SAT-MN5000 on sat board)
  D2917Q - "Digital Audio Data Modulation and Transmission" / Switch (Sony SAU-300MN x2, Sony MSC-4000 x2)
 
 Texas Instruments
  D77538PGE - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  TLC5510 - 8-bit, 20 MSPS ADC (Panasonic TU-HDC700)
+ TMS4C1050-30SD - 262264-Word 4-bit Serial Access RAM (Pioneer HM-D101 x20, ?Hitachi HD-M20 x20?)
  TMS57130APPM - ?DSP? (Sony MSC-4000)
  TMS57131PPM - ?DSP? (Sony MSC-4000)
  Y2932 FOXT - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
