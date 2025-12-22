@@ -15,7 +15,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  M65648FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  M65649FP - ?? (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
  D4811650GF - 16Mbit Sync. Graphics RAM / Some have the Samsung RAM (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)
- AN3917S - ?16-pin clock gen? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ AN3917S - Oscillator and 2x Multiplier (clock gen) (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  AN5392FBQ - Luminance and color difference drive/cutoff signal processor (Panasonic TU-PH20 - not on MUSE board, Panasonic TU-PH30 - not on MUSE board)
  AN5395FBP - Contour correction IC for HDTV (Panasonic TU-PH20 - not on MUSE board, Panasonic TU-PH30 - not on MUSE board)
  MB87F1720 - C.I.P. Digital Video proc / YUV analog->digital (Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30)

@@ -11,7 +11,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  M65645FP - ?? (Pioneer PDP-501R under heatsink, Panasonic TU-MDC100)
  M65646FP - ?? (Pioneer PDP-501R, Panasonic TU-MDC100)
  M65647FP - ?? (Pioneer PDP-501R, Panasonic TU-MDC100)
- AN3917S - ?16-pin clock gen? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ AN3917S - Oscillator and 2x Multiplier (clock gen) (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  AN8146FBQ - 3ch D/A Converter, 10-bit resolution, 50 MSPS, 5V, 450mW cons., TTL, QFH064 pkg (Pioneer PDP-501R, Panasonic TU-MDC100)
  MN1020003 - ?MCU? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  MN4776AS - 256k x 4bit FIFO mem (Pioneer PDP-501R 10x, Panasonic TU-MDC100)

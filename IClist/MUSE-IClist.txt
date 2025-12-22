@@ -161,7 +161,7 @@ OKI
 
 Panasonic (Matsushita - 松下)
  73C801AF - ?? (Panasonic TU-PH20 - not on MUSE board)
- AN3917S - ?16-pin clock gen? (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
+ AN3917S - Oscillator and 2x Multiplier (clock gen) (Pioneer PDP-501R, Pioneer PDP-502R, Panasonic TU-PH20, Panasonic TU-PH30, Panasonic TU-MDC100)
  AN5265 - Audio Amp. (Panasonic TU-PH20 - not on MUSE board)
  AN5303K - NTSC signal processor (Panasonic TU-AHD100/N - not on MUSE board)
  AN5392FBQ - Luminance and color difference drive/cutoff signal processor (Panasonic TU-PH20 - not on MUSE board, Panasonic TU-PH30 - not on MUSE board)
