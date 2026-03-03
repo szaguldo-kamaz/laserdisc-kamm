@@ -23,6 +23,7 @@ https://github.com/szaguldo-kamaz/laserdisc-iclist/
  D9376CW - 1G LSI - Video Processing Unit 2 (Y Mix (still image, moving image)) (Sony MST-1000)
  D9377C - 1G LSI - Video Processing Unit 3 (Low-pass replacement) (Sony MST-1000)
  D9378GB - Small capacity FIFO (Sony MST-1000 6x)
+ AN8140K - D/A Converter, 10-bit resolution, 50 MSPS (Sony MST-1000 3x)
  MN18888THW - 2G LSI - STG / Synchronization (Sony MST-1000)
  MN53060TUG - 1G LSI - Control Timing Signal Generator (TSG) (Sony MST-1000)
  MN73018TUR - ?MUSE Audio? (Victor HV-MC1000, Mitsubishi UC-5000, Sony SAT-MN5000, Panasonic TU-HDC300, Sony MST-1000)
